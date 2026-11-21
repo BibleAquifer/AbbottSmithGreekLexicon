@@ -1,0 +1,3308 @@
+[
+{
+"content_id": "ASL02385",
+"reference_id": "ASL02385",
+"version": "1.0.4",
+"title": "Η",
+"media_type": "Text",
+"index_reference": "η",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"197\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">Η</b>, <span class=\"greek\" lang=\"grc\">η, ἦτα, τό</span>, indecl.,</span></p> <div class=\"as-sense\"><i class=\"as-gloss\">eta</i>, the seventh letter. As a numeral, <span class=\"greek\" lang=\"grc\">ηʹ</span> = 8; <span class=\"greek\" lang=\"grc\">η͵</span> = 8000.</div> </div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02386",
+"reference_id": "ASL02386",
+"version": "1.0.4",
+"title": "ἤ",
+"media_type": "Text",
+"index_reference": "ἤ",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"197\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἤ</b>, </span><span class=\"as-gram\">disjunctive and comparative <span class=\"as-pos\">particle</span> (Bl., §36, 12; 77, 11);</span></p> <div class=\"as-sense\"><div class=\"as-sense\" data-n=\"1.\"><span class=\"as-sense-n\">1.</span> disjunctive, <i class=\"as-gloss\">or</i>; <div class=\"as-sense\" data-n=\"(a)\"><span class=\"as-sense-n\">(a)</span> between single words: <data class=\"bible-ref\" data-start-ref=\"40005017\" data-end-ref=\"40005017\">Mt 5:17</data>, <data class=\"bible-ref\" data-start-ref=\"41006056\" data-end-ref=\"41006056\">Mk 6:56</data>, <data class=\"bible-ref\" data-start-ref=\"42002024\" data-end-ref=\"42002024\">Lk 2:24</data>, <data class=\"bible-ref\" data-start-ref=\"43006019\" data-end-ref=\"43006019\">Jo 6:19</data>, <data class=\"bible-ref\" data-start-ref=\"45001021\" data-end-ref=\"45001021\">Ro 1:21</data>, al.;</div> <div class=\"as-sense\" data-n=\"(b)\"><span class=\"as-sense-n\">(b)</span> before a sentence expressing a variation, denial or refutation of a previous statement, freq. in interrog. form: <data class=\"bible-ref\" data-start-ref=\"40007004\" data-end-ref=\"40007004\">Mt 7:4</data>, <data class=\"bible-ref\" data-start-ref=\"40007009\" data-end-ref=\"40007009\">9</data>, <data class=\"bible-ref\" data-start-ref=\"41012014\" data-end-ref=\"41012014\">Mk 12:14</data>, <data class=\"bible-ref\" data-start-ref=\"42013004\" data-end-ref=\"42013004\">Lk 13:4</data>, <data class=\"bible-ref\" data-start-ref=\"45003029\" data-end-ref=\"45003029\">Ro 3:29</data> <data class=\"bible-ref\" data-start-ref=\"45006003\" data-end-ref=\"45006003\">6:3</data> <data class=\"bible-ref\" data-start-ref=\"45009021\" data-end-ref=\"45009021\">9:21</data>, <data class=\"bible-ref\" data-start-ref=\"46006009\" data-end-ref=\"46006009\">I Co 6:9</data>, <data class=\"bible-ref\" data-start-ref=\"46006016\" data-end-ref=\"46006016\">16</data> <data class=\"bible-ref\" data-start-ref=\"46009006\" data-end-ref=\"46009006\">9:6</data>, <data class=\"bible-ref\" data-start-ref=\"47011007\" data-end-ref=\"47011007\">II Co 11:7</data>; <span class=\"greek\" lang=\"grc\">ἢ … ἤ</span>, <i class=\"as-gloss\">either … or</i>, <data class=\"bible-ref\" data-start-ref=\"40006024\" data-end-ref=\"40006024\">Mt 6:24</data>, <data class=\"bible-ref\" data-start-ref=\"42016013\" data-end-ref=\"42016013\">Lk 16:13</data>, <data class=\"bible-ref\" data-start-ref=\"46014006\" data-end-ref=\"46014006\">I Co 14:6</data>;</div> <div class=\"as-sense\" data-n=\"(c)\"><span class=\"as-sense-n\">(c)</span> in a disjunctive question (as Lat. <span class=\"latin\" lang=\"la\">an</span> after <span class=\"latin\" lang=\"la\">utrum</span>): <data class=\"bible-ref\" data-start-ref=\"40009005\" data-end-ref=\"40009005\">Mt 9:5</data>, <data class=\"bible-ref\" data-start-ref=\"41002009\" data-end-ref=\"41002009\">Mk 2:9</data>, <data class=\"bible-ref\" data-start-ref=\"42007019\" data-end-ref=\"42007019\">Lk 7:19</data>, al.; after <span class=\"greek\" lang=\"grc\">πότερον</span>, <data class=\"bible-ref\" data-start-ref=\"43007017\" data-end-ref=\"43007017\">Jo 7:17</data>; <span class=\"greek\" lang=\"grc\">μή</span>, <data class=\"bible-ref\" data-start-ref=\"46009008\" data-end-ref=\"46009008\">I Co 9:8</data>; <span class=\"greek\" lang=\"grc\">μήτι</span>, <data class=\"bible-ref\" data-start-ref=\"47001017\" data-end-ref=\"47001017\">II Co 1:17</data>; <span class=\"greek\" lang=\"grc\">ἢ … ἢ … ἤ</span>, <data class=\"bible-ref\" data-start-ref=\"41013035\" data-end-ref=\"41013035\">Mk 13:35</data>.</div></div> <div class=\"as-sense\" data-n=\"2.\"><span class=\"as-sense-n\">2.</span> Comparative, <i class=\"as-gloss\">than</i>: after comparatives, <data class=\"bible-ref\" data-start-ref=\"40010015\" data-end-ref=\"40010015\">Mt 10:15</data>, <data class=\"bible-ref\" data-start-ref=\"42009013\" data-end-ref=\"42009013\">Lk 9:13</data>, <data class=\"bible-ref\" data-start-ref=\"43003019\" data-end-ref=\"43003019\">Jo 3:19</data>, <data class=\"bible-ref\" data-start-ref=\"45013011\" data-end-ref=\"45013011\">Ro 13:11</data>, al.; after <span class=\"greek\" lang=\"grc\">ἕτερον</span>, <data class=\"bible-ref\" data-start-ref=\"44017021\" data-end-ref=\"44017021\">Ac 17:21</data>; <span class=\"greek\" lang=\"grc\">θέλω</span> (Khüner<sup>3</sup>, ɪᴠ, 303), <data class=\"bible-ref\" data-start-ref=\"46014019\" data-end-ref=\"46014019\">I Co 14:19</data>; <span class=\"greek\" lang=\"grc\">πρὶν ἤ</span>, <i class=\"as-gloss\">before</i>, seq. acc. et inf., <data class=\"bible-ref\" data-start-ref=\"40001018\" data-end-ref=\"40001018\">Mt 1:18</data>, <data class=\"bible-ref\" data-start-ref=\"41014030\" data-end-ref=\"41014030\">Mk 14:30</data>; after a positive adj. (<data class=\"bible-ref\" data-start-ref=\"01049012\" data-end-ref=\"01049012\">Ge 49:12</data>; cf. Robertson, <i class=\"as-emph\">Gr.</i>, 661), <data class=\"bible-ref\" data-start-ref=\"40018008\" data-end-ref=\"40018008\">Mt 18:8</data>, <data class=\"bible-ref\" data-start-ref=\"40018009\" data-end-ref=\"40018009\">9</data>, <data class=\"bible-ref\" data-start-ref=\"41009043\" data-end-ref=\"41009043\">Mk 9:43</data>, <data class=\"bible-ref\" data-start-ref=\"41009045\" data-end-ref=\"41009045\">45</data>, <data class=\"bible-ref\" data-start-ref=\"41009047\" data-end-ref=\"41009047\">47</data>.</div> <div class=\"as-sense\" data-n=\"3.\"><span class=\"as-sense-n\">3.</span> With other particles: <span class=\"greek\" lang=\"grc\">ἀλλ’ ἤ</span>, v.s. <span class=\"greek\" lang=\"grc\">ἀλλά</span>; <span class=\"greek\" lang=\"grc\">ἢ γάρ</span>, v.s. <span class=\"greek\" lang=\"grc\">γάρ</span>; <span class=\"greek\" lang=\"grc\">ἢ καί</span>, <i class=\"as-gloss\">or even</i>, <i class=\"as-gloss\">or also</i>, <data class=\"bible-ref\" data-start-ref=\"40007010\" data-end-ref=\"40007010\">Mt 7:10</data>, <data class=\"bible-ref\" data-start-ref=\"42011011\" data-end-ref=\"42011011\">Lk 11:11</data>, <data class=\"bible-ref\" data-start-ref=\"42011012\" data-end-ref=\"42011012\">12</data>, <data class=\"bible-ref\" data-start-ref=\"45002015\" data-end-ref=\"45002015\">Ro 2:15</data> <data class=\"bible-ref\" data-start-ref=\"45004009\" data-end-ref=\"45004009\">4:9</data>, al.; <span class=\"greek\" lang=\"grc\">ἤτοι … ἤ</span>, <data class=\"bible-ref\" data-start-ref=\"45006016\" data-end-ref=\"45006016\">Ro 6:16</data> (cf. Wi 11:19).</div></div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "46006009",
+"start_ref_usfm": "1CO 6:9",
+"end_ref": "46006009",
+"end_ref_usfm": "1CO 6:9"
+},
+{
+"start_ref": "46006016",
+"start_ref_usfm": "1CO 6:16",
+"end_ref": "46006016",
+"end_ref_usfm": "1CO 6:16"
+},
+{
+"start_ref": "46009006",
+"start_ref_usfm": "1CO 9:6",
+"end_ref": "46009006",
+"end_ref_usfm": "1CO 9:6"
+},
+{
+"start_ref": "46009008",
+"start_ref_usfm": "1CO 9:8",
+"end_ref": "46009008",
+"end_ref_usfm": "1CO 9:8"
+},
+{
+"start_ref": "46014006",
+"start_ref_usfm": "1CO 14:6",
+"end_ref": "46014006",
+"end_ref_usfm": "1CO 14:6"
+},
+{
+"start_ref": "46014019",
+"start_ref_usfm": "1CO 14:19",
+"end_ref": "46014019",
+"end_ref_usfm": "1CO 14:19"
+},
+{
+"start_ref": "47001017",
+"start_ref_usfm": "2CO 1:17",
+"end_ref": "47001017",
+"end_ref_usfm": "2CO 1:17"
+},
+{
+"start_ref": "47011007",
+"start_ref_usfm": "2CO 11:7",
+"end_ref": "47011007",
+"end_ref_usfm": "2CO 11:7"
+},
+{
+"start_ref": "44017021",
+"start_ref_usfm": "ACT 17:21",
+"end_ref": "44017021",
+"end_ref_usfm": "ACT 17:21"
+},
+{
+"start_ref": "01049012",
+"start_ref_usfm": "GEN 49:12",
+"end_ref": "01049012",
+"end_ref_usfm": "GEN 49:12"
+},
+{
+"start_ref": "43003019",
+"start_ref_usfm": "JHN 3:19",
+"end_ref": "43003019",
+"end_ref_usfm": "JHN 3:19"
+},
+{
+"start_ref": "43006019",
+"start_ref_usfm": "JHN 6:19",
+"end_ref": "43006019",
+"end_ref_usfm": "JHN 6:19"
+},
+{
+"start_ref": "43007017",
+"start_ref_usfm": "JHN 7:17",
+"end_ref": "43007017",
+"end_ref_usfm": "JHN 7:17"
+},
+{
+"start_ref": "42002024",
+"start_ref_usfm": "LUK 2:24",
+"end_ref": "42002024",
+"end_ref_usfm": "LUK 2:24"
+},
+{
+"start_ref": "42007019",
+"start_ref_usfm": "LUK 7:19",
+"end_ref": "42007019",
+"end_ref_usfm": "LUK 7:19"
+},
+{
+"start_ref": "42009013",
+"start_ref_usfm": "LUK 9:13",
+"end_ref": "42009013",
+"end_ref_usfm": "LUK 9:13"
+},
+{
+"start_ref": "42011011",
+"start_ref_usfm": "LUK 11:11",
+"end_ref": "42011011",
+"end_ref_usfm": "LUK 11:11"
+},
+{
+"start_ref": "42011012",
+"start_ref_usfm": "LUK 11:12",
+"end_ref": "42011012",
+"end_ref_usfm": "LUK 11:12"
+},
+{
+"start_ref": "42013004",
+"start_ref_usfm": "LUK 13:4",
+"end_ref": "42013004",
+"end_ref_usfm": "LUK 13:4"
+},
+{
+"start_ref": "42016013",
+"start_ref_usfm": "LUK 16:13",
+"end_ref": "42016013",
+"end_ref_usfm": "LUK 16:13"
+},
+{
+"start_ref": "40001018",
+"start_ref_usfm": "MAT 1:18",
+"end_ref": "40001018",
+"end_ref_usfm": "MAT 1:18"
+},
+{
+"start_ref": "40005017",
+"start_ref_usfm": "MAT 5:17",
+"end_ref": "40005017",
+"end_ref_usfm": "MAT 5:17"
+},
+{
+"start_ref": "40006024",
+"start_ref_usfm": "MAT 6:24",
+"end_ref": "40006024",
+"end_ref_usfm": "MAT 6:24"
+},
+{
+"start_ref": "40007004",
+"start_ref_usfm": "MAT 7:4",
+"end_ref": "40007004",
+"end_ref_usfm": "MAT 7:4"
+},
+{
+"start_ref": "40007009",
+"start_ref_usfm": "MAT 7:9",
+"end_ref": "40007009",
+"end_ref_usfm": "MAT 7:9"
+},
+{
+"start_ref": "40007010",
+"start_ref_usfm": "MAT 7:10",
+"end_ref": "40007010",
+"end_ref_usfm": "MAT 7:10"
+},
+{
+"start_ref": "40009005",
+"start_ref_usfm": "MAT 9:5",
+"end_ref": "40009005",
+"end_ref_usfm": "MAT 9:5"
+},
+{
+"start_ref": "40010015",
+"start_ref_usfm": "MAT 10:15",
+"end_ref": "40010015",
+"end_ref_usfm": "MAT 10:15"
+},
+{
+"start_ref": "40018008",
+"start_ref_usfm": "MAT 18:8",
+"end_ref": "40018008",
+"end_ref_usfm": "MAT 18:8"
+},
+{
+"start_ref": "40018009",
+"start_ref_usfm": "MAT 18:9",
+"end_ref": "40018009",
+"end_ref_usfm": "MAT 18:9"
+},
+{
+"start_ref": "41002009",
+"start_ref_usfm": "MRK 2:9",
+"end_ref": "41002009",
+"end_ref_usfm": "MRK 2:9"
+},
+{
+"start_ref": "41006056",
+"start_ref_usfm": "MRK 6:56",
+"end_ref": "41006056",
+"end_ref_usfm": "MRK 6:56"
+},
+{
+"start_ref": "41009043",
+"start_ref_usfm": "MRK 9:43",
+"end_ref": "41009043",
+"end_ref_usfm": "MRK 9:43"
+},
+{
+"start_ref": "41009045",
+"start_ref_usfm": "MRK 9:45",
+"end_ref": "41009045",
+"end_ref_usfm": "MRK 9:45"
+},
+{
+"start_ref": "41009047",
+"start_ref_usfm": "MRK 9:47",
+"end_ref": "41009047",
+"end_ref_usfm": "MRK 9:47"
+},
+{
+"start_ref": "41012014",
+"start_ref_usfm": "MRK 12:14",
+"end_ref": "41012014",
+"end_ref_usfm": "MRK 12:14"
+},
+{
+"start_ref": "41013035",
+"start_ref_usfm": "MRK 13:35",
+"end_ref": "41013035",
+"end_ref_usfm": "MRK 13:35"
+},
+{
+"start_ref": "41014030",
+"start_ref_usfm": "MRK 14:30",
+"end_ref": "41014030",
+"end_ref_usfm": "MRK 14:30"
+},
+{
+"start_ref": "45001021",
+"start_ref_usfm": "ROM 1:21",
+"end_ref": "45001021",
+"end_ref_usfm": "ROM 1:21"
+},
+{
+"start_ref": "45002015",
+"start_ref_usfm": "ROM 2:15",
+"end_ref": "45002015",
+"end_ref_usfm": "ROM 2:15"
+},
+{
+"start_ref": "45003029",
+"start_ref_usfm": "ROM 3:29",
+"end_ref": "45003029",
+"end_ref_usfm": "ROM 3:29"
+},
+{
+"start_ref": "45004009",
+"start_ref_usfm": "ROM 4:9",
+"end_ref": "45004009",
+"end_ref_usfm": "ROM 4:9"
+},
+{
+"start_ref": "45006003",
+"start_ref_usfm": "ROM 6:3",
+"end_ref": "45006003",
+"end_ref_usfm": "ROM 6:3"
+},
+{
+"start_ref": "45006016",
+"start_ref_usfm": "ROM 6:16",
+"end_ref": "45006016",
+"end_ref_usfm": "ROM 6:16"
+},
+{
+"start_ref": "45009021",
+"start_ref_usfm": "ROM 9:21",
+"end_ref": "45009021",
+"end_ref_usfm": "ROM 9:21"
+},
+{
+"start_ref": "45013011",
+"start_ref_usfm": "ROM 13:11",
+"end_ref": "45013011",
+"end_ref_usfm": "ROM 13:11"
+},
+{
+"start_ref": "71011019",
+"start_ref_usfm": "WIS 11:19",
+"end_ref": "71011019",
+"end_ref_usfm": "WIS 11:19"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02387",
+"reference_id": "ASL02387",
+"version": "1.0.4",
+"title": "ἦ",
+"media_type": "Text",
+"index_reference": "ἦ",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"198\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἦ</b> <span class=\"greek\" lang=\"grc\">(μήν)</span>,</span> <span class=\"as-etym\">v.s. <span class=\"greek\" lang=\"grc\">εἰ</span>, iii, 7.</span></p> </div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02388",
+"reference_id": "ASL02388",
+"version": "1.0.4",
+"title": "ἡγεμονεύω",
+"media_type": "Text",
+"index_reference": "ἡγεμονεύω",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"198\"> <p class=\"as-head\"><span class=\"as-form\">* <b class=\"as-orth greek\" lang=\"grc\">ἡγεμονεύω</b></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(&lt; <span class=\"greek\" lang=\"grc\">ἡγεμών</span>),</span> </span></p> <div class=\"as-sense\" data-n=\"1.\"><span class=\"as-sense-n\">1.</span> <i class=\"as-gloss\">to lead the way</i>.</div> <div class=\"as-sense\" data-n=\"2.\"><span class=\"as-sense-n\">2.</span> <i class=\"as-gloss\">to lead</i> in war, <i class=\"as-gloss\">command</i> (cf. Ramsay, <i class=\"as-emph\">Was Christ born at Bethlehem?</i>; <i class=\"as-emph\">DCG</i>, ii, 463 f.).</div> <div class=\"as-sense\" data-n=\"3.\"><span class=\"as-sense-n\">3.</span> <i class=\"as-gloss\">to be governor</i> of a province: c. gen. loc., <data class=\"bible-ref\" data-start-ref=\"42002002\" data-end-ref=\"42002002\">Lk 2:2</data> <data class=\"bible-ref\" data-start-ref=\"42003001\" data-end-ref=\"42003001\">3:1</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "42002002",
+"start_ref_usfm": "LUK 2:2",
+"end_ref": "42002002",
+"end_ref_usfm": "LUK 2:2"
+},
+{
+"start_ref": "42003001",
+"start_ref_usfm": "LUK 3:1",
+"end_ref": "42003001",
+"end_ref_usfm": "LUK 3:1"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02389",
+"reference_id": "ASL02389",
+"version": "1.0.4",
+"title": "ἡγεμονία",
+"media_type": "Text",
+"index_reference": "ἡγεμονία",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"198\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡγεμονία</b>, <span class=\"greek\" lang=\"grc\">-ας, ἡ</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(&lt; <span class=\"greek\" lang=\"grc\">ἡγεμών</span>),</span> <span class=\"as-lxx\">[in LXX: <data class=\"bible-ref\" data-start-ref=\"01036030\" data-end-ref=\"01036030\">Ge 36:30</data> (<span class=\"hebrew\" lang=\"he\" data-strongs=\"H441\">אַלּוּף</span>), <data class=\"bible-ref\" data-start-ref=\"04001052\" data-end-ref=\"04001052\">Nu 1:52</data> <data class=\"bible-ref\" data-start-ref=\"04002017\" data-end-ref=\"04002017\">2:17</data> (<span class=\"hebrew\" lang=\"he\" data-strongs=\"H1714\">דֶּגֶל</span>), Si 7:4 10:1, IV Mac 6:33 13:4*;]</span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">rule</i>, <i class=\"as-gloss\">sovereignty</i>: <data class=\"bible-ref\" data-start-ref=\"42003001\" data-end-ref=\"42003001\">Lk 3:1</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "81006033",
+"start_ref_usfm": "4MA 6:33",
+"end_ref": "81006033",
+"end_ref_usfm": "4MA 6:33"
+},
+{
+"start_ref": "81013004",
+"start_ref_usfm": "4MA 13:4",
+"end_ref": "81013004",
+"end_ref_usfm": "4MA 13:4"
+},
+{
+"start_ref": "01036030",
+"start_ref_usfm": "GEN 36:30",
+"end_ref": "01036030",
+"end_ref_usfm": "GEN 36:30"
+},
+{
+"start_ref": "42003001",
+"start_ref_usfm": "LUK 3:1",
+"end_ref": "42003001",
+"end_ref_usfm": "LUK 3:1"
+},
+{
+"start_ref": "04001052",
+"start_ref_usfm": "NUM 1:52",
+"end_ref": "04001052",
+"end_ref_usfm": "NUM 1:52"
+},
+{
+"start_ref": "04002017",
+"start_ref_usfm": "NUM 2:17",
+"end_ref": "04002017",
+"end_ref_usfm": "NUM 2:17"
+},
+{
+"start_ref": "72007004",
+"start_ref_usfm": "SIR 7:4",
+"end_ref": "72007004",
+"end_ref_usfm": "SIR 7:4"
+},
+{
+"start_ref": "72010001",
+"start_ref_usfm": "SIR 10:1",
+"end_ref": "72010001",
+"end_ref_usfm": "SIR 10:1"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02390",
+"reference_id": "ASL02390",
+"version": "1.0.4",
+"title": "ἡγεμών",
+"media_type": "Text",
+"index_reference": "ἡγεμών",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"198\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡγεμών</b>, <span class=\"greek\" lang=\"grc\">-όνος, ὁ</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(<span class=\"greek\" lang=\"grc\">ἡγέομαι</span>),</span> <span class=\"as-lxx\">[in LXX for <span class=\"hebrew\" lang=\"he\" data-strongs=\"H441\">אַלּוּף</span>, <span class=\"hebrew\" lang=\"he\" data-strongs=\"H8269\">שַׂר</span>, etc.;]</span> </span></p> <div class=\"as-sense\" data-n=\"1.\"><span class=\"as-sense-n\">1.</span> <i class=\"as-gloss\">a leader</i>, <i class=\"as-gloss\">guide</i>.</div> <div class=\"as-sense\" data-n=\"2.\"><span class=\"as-sense-n\">2.</span> <i class=\"as-gloss\">a commander</i>.</div> <div class=\"as-sense\" data-n=\"3.\"><span class=\"as-sense-n\">3.</span> <i class=\"as-gloss\">a governor</i> of a province (proconsul, propraetor, legate, or procurator; but cf. <span class=\"greek\" lang=\"grc\">ἀνθύπατος</span>): <data class=\"bible-ref\" data-start-ref=\"40010018\" data-end-ref=\"40010018\">Mt 10:18</data>, <data class=\"bible-ref\" data-start-ref=\"41013009\" data-end-ref=\"41013009\">Mk 13:9</data>, <data class=\"bible-ref\" data-start-ref=\"42021012\" data-end-ref=\"42021012\">Lk 21:12</data>, <data class=\"bible-ref\" data-start-ref=\"60002014\" data-end-ref=\"60002014\">I Pe 2:14</data>; of the Procurator of Judæa, <data class=\"bible-ref\" data-start-ref=\"40027002\" data-end-ref=\"40027002\">Mt 27:2</data>, <data class=\"bible-ref\" data-start-ref=\"40027011\" data-end-ref=\"40027011\">11</data>, <data class=\"bible-ref\" data-start-ref=\"40027014\" data-end-ref=\"40027014\">14</data>, <data class=\"bible-ref\" data-start-ref=\"40027015\" data-end-ref=\"40027015\">15</data>, <data class=\"bible-ref\" data-start-ref=\"40027021\" data-end-ref=\"40027021\">21</data>, <data class=\"bible-ref\" data-start-ref=\"40027027\" data-end-ref=\"40027027\">27</data> <data class=\"bible-ref\" data-start-ref=\"40028014\" data-end-ref=\"40028014\">28:14</data>, <data class=\"bible-ref\" data-start-ref=\"42020020\" data-end-ref=\"42020020\">Lk 20:20</data>, <data class=\"bible-ref\" data-start-ref=\"44023024\" data-end-ref=\"44023024\">Ac 23:24</data>, <data class=\"bible-ref\" data-start-ref=\"44023026\" data-end-ref=\"44023026\">26</data>, <data class=\"bible-ref\" data-start-ref=\"44023033\" data-end-ref=\"44023033\">33</data> <data class=\"bible-ref\" data-start-ref=\"44024001\" data-end-ref=\"44024001\">24:1</data>, <data class=\"bible-ref\" data-start-ref=\"44024010\" data-end-ref=\"44024010\">10</data> <data class=\"bible-ref\" data-start-ref=\"44026030\" data-end-ref=\"44026030\">26:30</data>.</div> <div class=\"as-sense\" data-n=\"4.\"><span class=\"as-sense-n\">4.</span> For <i class=\"as-emph\">Heb.</i> <span class=\"hebrew\" lang=\"he\" data-strongs=\"H504\">אַלְפֵי</span> (LXX, <span class=\"greek\" lang=\"grc\">χίλιαι</span>) misread <span class=\"hebrew\" lang=\"he\">אַלֻּפֵי</span>, <i class=\"as-gloss\">leaders</i>: <data class=\"bible-ref\" data-start-ref=\"40002006\" data-end-ref=\"40002006\">Mt 2:6</data> <sup>(OT)</sup>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "60002014",
+"start_ref_usfm": "1PE 2:14",
+"end_ref": "60002014",
+"end_ref_usfm": "1PE 2:14"
+},
+{
+"start_ref": "44023024",
+"start_ref_usfm": "ACT 23:24",
+"end_ref": "44023024",
+"end_ref_usfm": "ACT 23:24"
+},
+{
+"start_ref": "44023026",
+"start_ref_usfm": "ACT 23:26",
+"end_ref": "44023026",
+"end_ref_usfm": "ACT 23:26"
+},
+{
+"start_ref": "44023033",
+"start_ref_usfm": "ACT 23:33",
+"end_ref": "44023033",
+"end_ref_usfm": "ACT 23:33"
+},
+{
+"start_ref": "44024001",
+"start_ref_usfm": "ACT 24:1",
+"end_ref": "44024001",
+"end_ref_usfm": "ACT 24:1"
+},
+{
+"start_ref": "44024010",
+"start_ref_usfm": "ACT 24:10",
+"end_ref": "44024010",
+"end_ref_usfm": "ACT 24:10"
+},
+{
+"start_ref": "44026030",
+"start_ref_usfm": "ACT 26:30",
+"end_ref": "44026030",
+"end_ref_usfm": "ACT 26:30"
+},
+{
+"start_ref": "42020020",
+"start_ref_usfm": "LUK 20:20",
+"end_ref": "42020020",
+"end_ref_usfm": "LUK 20:20"
+},
+{
+"start_ref": "42021012",
+"start_ref_usfm": "LUK 21:12",
+"end_ref": "42021012",
+"end_ref_usfm": "LUK 21:12"
+},
+{
+"start_ref": "40002006",
+"start_ref_usfm": "MAT 2:6",
+"end_ref": "40002006",
+"end_ref_usfm": "MAT 2:6"
+},
+{
+"start_ref": "40010018",
+"start_ref_usfm": "MAT 10:18",
+"end_ref": "40010018",
+"end_ref_usfm": "MAT 10:18"
+},
+{
+"start_ref": "40027002",
+"start_ref_usfm": "MAT 27:2",
+"end_ref": "40027002",
+"end_ref_usfm": "MAT 27:2"
+},
+{
+"start_ref": "40027011",
+"start_ref_usfm": "MAT 27:11",
+"end_ref": "40027011",
+"end_ref_usfm": "MAT 27:11"
+},
+{
+"start_ref": "40027014",
+"start_ref_usfm": "MAT 27:14",
+"end_ref": "40027014",
+"end_ref_usfm": "MAT 27:14"
+},
+{
+"start_ref": "40027015",
+"start_ref_usfm": "MAT 27:15",
+"end_ref": "40027015",
+"end_ref_usfm": "MAT 27:15"
+},
+{
+"start_ref": "40027021",
+"start_ref_usfm": "MAT 27:21",
+"end_ref": "40027021",
+"end_ref_usfm": "MAT 27:21"
+},
+{
+"start_ref": "40027027",
+"start_ref_usfm": "MAT 27:27",
+"end_ref": "40027027",
+"end_ref_usfm": "MAT 27:27"
+},
+{
+"start_ref": "40028014",
+"start_ref_usfm": "MAT 28:14",
+"end_ref": "40028014",
+"end_ref_usfm": "MAT 28:14"
+},
+{
+"start_ref": "41013009",
+"start_ref_usfm": "MRK 13:9",
+"end_ref": "41013009",
+"end_ref_usfm": "MRK 13:9"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02391",
+"reference_id": "ASL02391",
+"version": "1.0.4",
+"title": "ἡγέομαι",
+"media_type": "Text",
+"index_reference": "ἡγέομαι",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"198\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡγέομαι</b>, <span class=\"greek\" lang=\"grc\">-οῦμαι</span> depon. mid.,</span> <span class=\"as-etym\"> <span class=\"as-lxx\">[in LXX (chiefly pres. ptcp.) for <span class=\"hebrew\" lang=\"he\" data-strongs=\"H5057\">נָגִיד</span>, <span class=\"hebrew\" lang=\"he\" data-strongs=\"H7218\">רֹאשׁ</span>, <span class=\"hebrew\" lang=\"he\" data-strongs=\"H8269\">שַׂר</span>, etc.;]</span> </span></p> <div class=\"as-sense\" data-n=\"1.\"><span class=\"as-sense-n\">1.</span> <i class=\"as-gloss\">to lead</i>;</div> <div class=\"as-sense\" data-n=\"(a)\"><span class=\"as-sense-n\">(a)</span> <i class=\"as-gloss\">to guide</i>, <i class=\"as-gloss\">go before</i>;</div> <div class=\"as-sense\" data-n=\"(b)\"><span class=\"as-sense-n\">(b)</span> <i class=\"as-gloss\">to rule</i>, <i class=\"as-gloss\">be leader</i>: pres. ptcp., <span class=\"greek\" lang=\"grc\">ἡγούενος</span>, <i class=\"as-gloss\">a ruler</i>, <i class=\"as-gloss\">leader</i> (MM, <i class=\"as-emph\">Exp.</i>, xiv), <data class=\"bible-ref\" data-start-ref=\"40002006\" data-end-ref=\"40002006\">Mt 2:6</data><sup>(LXX)</sup>, <data class=\"bible-ref\" data-start-ref=\"42022026\" data-end-ref=\"42022026\">Lk 22:26</data>, <data class=\"bible-ref\" data-start-ref=\"44007010\" data-end-ref=\"44007010\">Ac 7:10</data> <data class=\"bible-ref\" data-start-ref=\"44014012\" data-end-ref=\"44014012\">14:12</data> <data class=\"bible-ref\" data-start-ref=\"44015022\" data-end-ref=\"44015022\">15:22</data>, <data class=\"bible-ref\" data-start-ref=\"58013007\" data-end-ref=\"58013007\">He 13:7</data>, <data class=\"bible-ref\" data-start-ref=\"58013017\" data-end-ref=\"58013017\">17</data>, <data class=\"bible-ref\" data-start-ref=\"58013024\" data-end-ref=\"58013024\">13:24</data>.</div> <div class=\"as-sense\" data-n=\"2.\"><span class=\"as-sense-n\">2.</span> <i class=\"as-gloss\">to suppose</i>, <i class=\"as-gloss\">believe</i>, <i class=\"as-gloss\">consider</i>, <i class=\"as-gloss\">think</i> (Hdt., Soph., al.; cf. Lat. <span class=\"latin\" lang=\"la\">duco</span>): c. dupl. acc., <data class=\"bible-ref\" data-start-ref=\"44026002\" data-end-ref=\"44026002\">Ac 26:2</data>, <data class=\"bible-ref\" data-start-ref=\"50002003\" data-end-ref=\"50002003\">Phl 2:3</data>, <data class=\"bible-ref\" data-start-ref=\"50002006\" data-end-ref=\"50002006\">6</data> <data class=\"bible-ref\" data-start-ref=\"50003007\" data-end-ref=\"50003007\">3:7</data>, <data class=\"bible-ref\" data-start-ref=\"54001012\" data-end-ref=\"54001012\">I Ti 1:12</data> <data class=\"bible-ref\" data-start-ref=\"54006001\" data-end-ref=\"54006001\">6:1</data>, <data class=\"bible-ref\" data-start-ref=\"58010029\" data-end-ref=\"58010029\">He 10:29</data> <data class=\"bible-ref\" data-start-ref=\"58011011\" data-end-ref=\"58011011\">11:11</data>, <data class=\"bible-ref\" data-start-ref=\"58011026\" data-end-ref=\"58011026\">26</data>, <data class=\"bible-ref\" data-start-ref=\"61001013\" data-end-ref=\"61001013\">II Pe 1:13</data> <data class=\"bible-ref\" data-start-ref=\"61002013\" data-end-ref=\"61002013\">2:13</data> <data class=\"bible-ref\" data-start-ref=\"61003009\" data-end-ref=\"61003009\">3:9</data>, <data class=\"bible-ref\" data-start-ref=\"61003015\" data-end-ref=\"61003015\">15</data>; c. acc. seq. <span class=\"greek\" lang=\"grc\">ὡς</span>, c. acc., <data class=\"bible-ref\" data-start-ref=\"53003015\" data-end-ref=\"53003015\">II Th 3:15</data>; c. acc. seq. adv., <data class=\"bible-ref\" data-start-ref=\"52005013\" data-end-ref=\"52005013\">I Th 5:13</data>; <span class=\"greek\" lang=\"grc\">ὅταν</span>, <data class=\"bible-ref\" data-start-ref=\"59001002\" data-end-ref=\"59001002\">Ja 1:2</data>; <span class=\"greek\" lang=\"grc\">ἀναγκαῖον</span>, c. inf., <data class=\"bible-ref\" data-start-ref=\"47009005\" data-end-ref=\"47009005\">II Co 9:5</data>, <data class=\"bible-ref\" data-start-ref=\"50002025\" data-end-ref=\"50002025\">Phl 2:25</data>; <span class=\"greek\" lang=\"grc\">δίκαιον</span>, c. inf., <data class=\"bible-ref\" data-start-ref=\"61001013\" data-end-ref=\"61001013\">II Pe 1:13</data>; c. acc. et inf., <data class=\"bible-ref\" data-start-ref=\"50003008\" data-end-ref=\"50003008\">Phl 3:8</data> (cf. <span class=\"greek\" lang=\"grc\">δι-, ἐκ-δι-, ἐξ- προ-ηγέομαι</span>).†</div> <div class=\"as-re\"><i class=\"as-emph\">SYN.</i>: v.s. <span class=\"greek\" lang=\"grc\" data-strongs=\"G1380\">δοκέω</span>.</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "52005013",
+"start_ref_usfm": "1TH 5:13",
+"end_ref": "52005013",
+"end_ref_usfm": "1TH 5:13"
+},
+{
+"start_ref": "54001012",
+"start_ref_usfm": "1TI 1:12",
+"end_ref": "54001012",
+"end_ref_usfm": "1TI 1:12"
+},
+{
+"start_ref": "54006001",
+"start_ref_usfm": "1TI 6:1",
+"end_ref": "54006001",
+"end_ref_usfm": "1TI 6:1"
+},
+{
+"start_ref": "47009005",
+"start_ref_usfm": "2CO 9:5",
+"end_ref": "47009005",
+"end_ref_usfm": "2CO 9:5"
+},
+{
+"start_ref": "61001013",
+"start_ref_usfm": "2PE 1:13",
+"end_ref": "61001013",
+"end_ref_usfm": "2PE 1:13"
+},
+{
+"start_ref": "61002013",
+"start_ref_usfm": "2PE 2:13",
+"end_ref": "61002013",
+"end_ref_usfm": "2PE 2:13"
+},
+{
+"start_ref": "61003009",
+"start_ref_usfm": "2PE 3:9",
+"end_ref": "61003009",
+"end_ref_usfm": "2PE 3:9"
+},
+{
+"start_ref": "61003015",
+"start_ref_usfm": "2PE 3:15",
+"end_ref": "61003015",
+"end_ref_usfm": "2PE 3:15"
+},
+{
+"start_ref": "53003015",
+"start_ref_usfm": "2TH 3:15",
+"end_ref": "53003015",
+"end_ref_usfm": "2TH 3:15"
+},
+{
+"start_ref": "44007010",
+"start_ref_usfm": "ACT 7:10",
+"end_ref": "44007010",
+"end_ref_usfm": "ACT 7:10"
+},
+{
+"start_ref": "44014012",
+"start_ref_usfm": "ACT 14:12",
+"end_ref": "44014012",
+"end_ref_usfm": "ACT 14:12"
+},
+{
+"start_ref": "44015022",
+"start_ref_usfm": "ACT 15:22",
+"end_ref": "44015022",
+"end_ref_usfm": "ACT 15:22"
+},
+{
+"start_ref": "44026002",
+"start_ref_usfm": "ACT 26:2",
+"end_ref": "44026002",
+"end_ref_usfm": "ACT 26:2"
+},
+{
+"start_ref": "58010029",
+"start_ref_usfm": "HEB 10:29",
+"end_ref": "58010029",
+"end_ref_usfm": "HEB 10:29"
+},
+{
+"start_ref": "58011011",
+"start_ref_usfm": "HEB 11:11",
+"end_ref": "58011011",
+"end_ref_usfm": "HEB 11:11"
+},
+{
+"start_ref": "58011026",
+"start_ref_usfm": "HEB 11:26",
+"end_ref": "58011026",
+"end_ref_usfm": "HEB 11:26"
+},
+{
+"start_ref": "58013007",
+"start_ref_usfm": "HEB 13:7",
+"end_ref": "58013007",
+"end_ref_usfm": "HEB 13:7"
+},
+{
+"start_ref": "58013017",
+"start_ref_usfm": "HEB 13:17",
+"end_ref": "58013017",
+"end_ref_usfm": "HEB 13:17"
+},
+{
+"start_ref": "58013024",
+"start_ref_usfm": "HEB 13:24",
+"end_ref": "58013024",
+"end_ref_usfm": "HEB 13:24"
+},
+{
+"start_ref": "59001002",
+"start_ref_usfm": "JAS 1:2",
+"end_ref": "59001002",
+"end_ref_usfm": "JAS 1:2"
+},
+{
+"start_ref": "42022026",
+"start_ref_usfm": "LUK 22:26",
+"end_ref": "42022026",
+"end_ref_usfm": "LUK 22:26"
+},
+{
+"start_ref": "40002006",
+"start_ref_usfm": "MAT 2:6",
+"end_ref": "40002006",
+"end_ref_usfm": "MAT 2:6"
+},
+{
+"start_ref": "50002003",
+"start_ref_usfm": "PHP 2:3",
+"end_ref": "50002003",
+"end_ref_usfm": "PHP 2:3"
+},
+{
+"start_ref": "50002006",
+"start_ref_usfm": "PHP 2:6",
+"end_ref": "50002006",
+"end_ref_usfm": "PHP 2:6"
+},
+{
+"start_ref": "50002025",
+"start_ref_usfm": "PHP 2:25",
+"end_ref": "50002025",
+"end_ref_usfm": "PHP 2:25"
+},
+{
+"start_ref": "50003007",
+"start_ref_usfm": "PHP 3:7",
+"end_ref": "50003007",
+"end_ref_usfm": "PHP 3:7"
+},
+{
+"start_ref": "50003008",
+"start_ref_usfm": "PHP 3:8",
+"end_ref": "50003008",
+"end_ref_usfm": "PHP 3:8"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02392",
+"reference_id": "ASL02392",
+"version": "1.0.4",
+"title": "ἡδέως",
+"media_type": "Text",
+"index_reference": "ἡδέως",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"198\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡδέως </b></span> <span class=\"as-gram\"><span class=\"as-pos\">adv.</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(&lt; <span class=\"greek\" lang=\"grc\">ἡδύς</span>, <i class=\"as-emph\">sweet</i>),</span> <span class=\"as-lxx\">[in LXX: <data class=\"bible-ref\" data-start-ref=\"20003024\" data-end-ref=\"20003024\">Pr 3:24</data> (<span class=\"hebrew\" lang=\"he\" data-strongs=\"H6148\">ערב</span>), etc.;]</span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">gladly</i>, <i class=\"as-gloss\">with pleasure</i>: <data class=\"bible-ref\" data-start-ref=\"41006020\" data-end-ref=\"41006020\">Mk 6:20</data> <data class=\"bible-ref\" data-start-ref=\"41012037\" data-end-ref=\"41012037\">12:37</data>, <data class=\"bible-ref\" data-start-ref=\"47011019\" data-end-ref=\"47011019\">II Co 11:19</data>; superlat., <span class=\"greek\" lang=\"grc\">ἥδιστα</span>, <i class=\"as-gloss\">very gladly</i> (Bl., § 11, 3), <data class=\"bible-ref\" data-start-ref=\"47012009\" data-end-ref=\"47012009\">II Co 12:9</data>, <data class=\"bible-ref\" data-start-ref=\"47012015\" data-end-ref=\"47012015\">15</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "47011019",
+"start_ref_usfm": "2CO 11:19",
+"end_ref": "47011019",
+"end_ref_usfm": "2CO 11:19"
+},
+{
+"start_ref": "47012009",
+"start_ref_usfm": "2CO 12:9",
+"end_ref": "47012009",
+"end_ref_usfm": "2CO 12:9"
+},
+{
+"start_ref": "47012015",
+"start_ref_usfm": "2CO 12:15",
+"end_ref": "47012015",
+"end_ref_usfm": "2CO 12:15"
+},
+{
+"start_ref": "41006020",
+"start_ref_usfm": "MRK 6:20",
+"end_ref": "41006020",
+"end_ref_usfm": "MRK 6:20"
+},
+{
+"start_ref": "41012037",
+"start_ref_usfm": "MRK 12:37",
+"end_ref": "41012037",
+"end_ref_usfm": "MRK 12:37"
+},
+{
+"start_ref": "20003024",
+"start_ref_usfm": "PRO 3:24",
+"end_ref": "20003024",
+"end_ref_usfm": "PRO 3:24"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02393",
+"reference_id": "ASL02393",
+"version": "1.0.4",
+"title": "ἤδη",
+"media_type": "Text",
+"index_reference": "ἤδη",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"198\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἤδη</b></span> <span class=\"as-gram\"><span class=\"as-pos\">adv.</span>,</span></p> <div class=\"as-sense\">in NT, always of time; <i class=\"as-gloss\">now</i>, <i class=\"as-gloss\">already</i>: <data class=\"bible-ref\" data-start-ref=\"40003010\" data-end-ref=\"40003010\">Mt 3:10</data>, <data class=\"bible-ref\" data-start-ref=\"41004037\" data-end-ref=\"41004037\">Mk 4:37</data>, <data class=\"bible-ref\" data-start-ref=\"42007006\" data-end-ref=\"42007006\">Lk 7:6</data>, <data class=\"bible-ref\" data-start-ref=\"43004036\" data-end-ref=\"43004036\">Jo 4:36</data>, al.; <span class=\"greek\" lang=\"grc\">νῦν … ἤ.</span>, <i class=\"as-gloss\">now already</i>, <data class=\"bible-ref\" data-start-ref=\"62004003\" data-end-ref=\"62004003\">I Jo 4:3</data>; <span class=\"greek\" lang=\"grc\">ἤ. ποτέ</span>, <i class=\"as-gloss\">now at length</i>, c. fut., <data class=\"bible-ref\" data-start-ref=\"45001010\" data-end-ref=\"45001010\">Ro 1:10</data> (cf. <span class=\"greek\" lang=\"grc\">ἄρτι</span>).</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "62004003",
+"start_ref_usfm": "1JN 4:3",
+"end_ref": "62004003",
+"end_ref_usfm": "1JN 4:3"
+},
+{
+"start_ref": "43004036",
+"start_ref_usfm": "JHN 4:36",
+"end_ref": "43004036",
+"end_ref_usfm": "JHN 4:36"
+},
+{
+"start_ref": "42007006",
+"start_ref_usfm": "LUK 7:6",
+"end_ref": "42007006",
+"end_ref_usfm": "LUK 7:6"
+},
+{
+"start_ref": "40003010",
+"start_ref_usfm": "MAT 3:10",
+"end_ref": "40003010",
+"end_ref_usfm": "MAT 3:10"
+},
+{
+"start_ref": "41004037",
+"start_ref_usfm": "MRK 4:37",
+"end_ref": "41004037",
+"end_ref_usfm": "MRK 4:37"
+},
+{
+"start_ref": "45001010",
+"start_ref_usfm": "ROM 1:10",
+"end_ref": "45001010",
+"end_ref_usfm": "ROM 1:10"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02394",
+"reference_id": "ASL02394",
+"version": "1.0.4",
+"title": "ἥδιστα",
+"media_type": "Text",
+"index_reference": "ἥδιστα",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"198\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἥδιστα</b>, v.s. <span class=\"greek\" lang=\"grc\">ἡδέως</span>.</span></p> </div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02395",
+"reference_id": "ASL02395",
+"version": "1.0.4",
+"title": "ἡδονή",
+"media_type": "Text",
+"index_reference": "ἡδονή",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"198\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡδονή</b>, <span class=\"greek\" lang=\"grc\">-ῆς, ἡ</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(&lt; <span class=\"greek\" lang=\"grc\">ἥδομαι</span>, <i class=\"as-emph\">to be glad</i>)</span> <span class=\"as-lxx\">[in LXX: <data class=\"bible-ref\" data-start-ref=\"04011008\" data-end-ref=\"04011008\">Nu 11:8</data> (<span class=\"hebrew\" lang=\"he\" data-strongs=\"H2940\">טַעַם</span>), <data class=\"bible-ref\" data-start-ref=\"20017001\" data-end-ref=\"20017001\">Pr 17:1</data>, Wi 7:2 16:20, and freq. in IV Mac;]</span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">pleasure</i>: <data class=\"bible-ref\" data-start-ref=\"61002012\" data-end-ref=\"61002012\">II Pe 2:12</data>; pl., <data class=\"bible-ref\" data-start-ref=\"42008014\" data-end-ref=\"42008014\">Lk 8:14</data>, <data class=\"bible-ref\" data-start-ref=\"56003003\" data-end-ref=\"56003003\">Tit 3:3</data>, <data class=\"bible-ref\" data-start-ref=\"59004001\" data-end-ref=\"59004001\">Ja 4:1</data>, <data class=\"bible-ref\" data-start-ref=\"59004003\" data-end-ref=\"59004003\">3</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "61002012",
+"start_ref_usfm": "2PE 2:12",
+"end_ref": "61002012",
+"end_ref_usfm": "2PE 2:12"
+},
+{
+"start_ref": "59004001",
+"start_ref_usfm": "JAS 4:1",
+"end_ref": "59004001",
+"end_ref_usfm": "JAS 4:1"
+},
+{
+"start_ref": "59004003",
+"start_ref_usfm": "JAS 4:3",
+"end_ref": "59004003",
+"end_ref_usfm": "JAS 4:3"
+},
+{
+"start_ref": "42008014",
+"start_ref_usfm": "LUK 8:14",
+"end_ref": "42008014",
+"end_ref_usfm": "LUK 8:14"
+},
+{
+"start_ref": "04011008",
+"start_ref_usfm": "NUM 11:8",
+"end_ref": "04011008",
+"end_ref_usfm": "NUM 11:8"
+},
+{
+"start_ref": "20017001",
+"start_ref_usfm": "PRO 17:1",
+"end_ref": "20017001",
+"end_ref_usfm": "PRO 17:1"
+},
+{
+"start_ref": "56003003",
+"start_ref_usfm": "TIT 3:3",
+"end_ref": "56003003",
+"end_ref_usfm": "TIT 3:3"
+},
+{
+"start_ref": "71007002",
+"start_ref_usfm": "WIS 7:2",
+"end_ref": "71007002",
+"end_ref_usfm": "WIS 7:2"
+},
+{
+"start_ref": "71016020",
+"start_ref_usfm": "WIS 16:20",
+"end_ref": "71016020",
+"end_ref_usfm": "WIS 16:20"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02396",
+"reference_id": "ASL02396",
+"version": "1.0.4",
+"title": "ἡδύοσμος",
+"media_type": "Text",
+"index_reference": "ἡδύοσμος",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"198\"> <p class=\"as-head\"><span class=\"as-form\">* <b class=\"as-orth greek\" lang=\"grc\">ἡδύ-οσμος</b>, <span class=\"greek\" lang=\"grc\">-ον</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(&lt; <span class=\"greek\" lang=\"grc\">ἡδύς</span>, <span class=\"greek\" lang=\"grc\">ὀσμή</span>)</span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">sweet-smelling</i>; as subst., <span class=\"greek\" lang=\"grc\">τὸ ἡ.</span>, <i class=\"as-gloss\">mint</i>: <data class=\"bible-ref\" data-start-ref=\"40023023\" data-end-ref=\"40023023\">Mt 23:23</data>, <data class=\"bible-ref\" data-start-ref=\"42011042\" data-end-ref=\"42011042\">Lk 11:42</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "42011042",
+"start_ref_usfm": "LUK 11:42",
+"end_ref": "42011042",
+"end_ref_usfm": "LUK 11:42"
+},
+{
+"start_ref": "40023023",
+"start_ref_usfm": "MAT 23:23",
+"end_ref": "40023023",
+"end_ref_usfm": "MAT 23:23"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02397",
+"reference_id": "ASL02397",
+"version": "1.0.4",
+"title": "ἦθος",
+"media_type": "Text",
+"index_reference": "ἦθος",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"198\"> <p class=\"as-head\"><span class=\"as-form\">** <b class=\"as-orth greek\" lang=\"grc\">ἦθος</b>, <span class=\"greek\" lang=\"grc\">-εος (-ους), τό</span>,</span> <span class=\"as-etym\"> <span class=\"as-lxx\">[in LXX: Si, prol.:27 20:26(25), IV Mac 1:29 2:7, 21 5:24 13:27*;]</span> </span></p> <div class=\"as-sense\" data-n=\"1\"><span class=\"as-sense-n\">1</span> 1, <i class=\"as-gloss\">a haunt</i>, <i class=\"as-gloss\">abode</i>.</div> <div class=\"as-sense\" data-n=\"2.\"><span class=\"as-sense-n\">2.</span> = <span class=\"greek\" lang=\"grc\">ἔθος</span>, <i class=\"as-gloss\">custom</i>, <i class=\"as-gloss\">manner</i>: pl., <data class=\"bible-ref\" data-start-ref=\"46015033\" data-end-ref=\"46015033\">I Co 15:33</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "46015033",
+"start_ref_usfm": "1CO 15:33",
+"end_ref": "46015033",
+"end_ref_usfm": "1CO 15:33"
+},
+{
+"start_ref": "81001029",
+"start_ref_usfm": "4MA 1:29",
+"end_ref": "81001029",
+"end_ref_usfm": "4MA 1:29"
+},
+{
+"start_ref": "81002007",
+"start_ref_usfm": "4MA 2:7",
+"end_ref": "81002007",
+"end_ref_usfm": "4MA 2:7"
+},
+{
+"start_ref": "81002021",
+"start_ref_usfm": "4MA 2:21",
+"end_ref": "81002021",
+"end_ref_usfm": "4MA 2:21"
+},
+{
+"start_ref": "81005024",
+"start_ref_usfm": "4MA 5:24",
+"end_ref": "81005024",
+"end_ref_usfm": "4MA 5:24"
+},
+{
+"start_ref": "81013027",
+"start_ref_usfm": "4MA 13:27",
+"end_ref": "81013027",
+"end_ref_usfm": "4MA 13:27"
+},
+{
+"start_ref": "72020025",
+"start_ref_usfm": "SIR 20:25",
+"end_ref": "72020025",
+"end_ref_usfm": "SIR 20:25"
+},
+{
+"start_ref": "72020026",
+"start_ref_usfm": "SIR 20:26",
+"end_ref": "72020026",
+"end_ref_usfm": "SIR 20:26"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02398",
+"reference_id": "ASL02398",
+"version": "1.0.4",
+"title": "ἥκω",
+"media_type": "Text",
+"index_reference": "ἥκω",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"198\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἥκω</b></span> <span class=\"as-etym\"> <span class=\"as-lxx\">[in LXX chiefly for <span class=\"hebrew\" lang=\"he\" data-strongs=\"H935\">בּוא</span>;] </span> </span></p> <div class=\"as-sense\">pf. with pres. meaning (hence impf. = plpf.), <i class=\"as-gloss\">to have come</i>, <i class=\"as-gloss\">be present</i>: <data class=\"bible-ref\" data-start-ref=\"40024050\" data-end-ref=\"40024050\">Mt 24:50</data>, <data class=\"bible-ref\" data-start-ref=\"41008003\" data-end-ref=\"41008003\">Mk 8:3</data> (late pf., <span class=\"greek\" lang=\"grc\">ἧκα</span>, v. Swete, in l.; WH, <i class=\"as-emph\">App.</i>, 169), <data class=\"bible-ref\" data-start-ref=\"42012046\" data-end-ref=\"42012046\">Lk 12:46</data> <data class=\"bible-ref\" data-start-ref=\"42015027\" data-end-ref=\"42015027\">15:27</data>, <data class=\"bible-ref\" data-start-ref=\"43008042\" data-end-ref=\"43008042\">Jo 8:42</data>, <data class=\"bible-ref\" data-start-ref=\"58010007\" data-end-ref=\"58010007\">He 10:7</data>, <data class=\"bible-ref\" data-start-ref=\"58010009\" data-end-ref=\"58010009\">9</data>, <data class=\"bible-ref\" data-start-ref=\"58010037\" data-end-ref=\"58010037\">37</data>, <data class=\"bible-ref\" data-start-ref=\"62005020\" data-end-ref=\"62005020\">I Jn</data> <data class=\"bible-ref\" data-start-ref=\"62005020\" data-end-ref=\"62005020\">5:20</data>, <data class=\"bible-ref\" data-start-ref=\"66002025\" data-end-ref=\"66002025\">Re 2:25</data> <data class=\"bible-ref\" data-start-ref=\"66003003\" data-end-ref=\"66003003\">3:3</data>, <data class=\"bible-ref\" data-start-ref=\"66003009\" data-end-ref=\"66003009\">9</data> <data class=\"bible-ref\" data-start-ref=\"66015004\" data-end-ref=\"66015004\">15:4</data>; seq. <span class=\"greek\" lang=\"grc\">ἀπό</span>, c. gen. loc., <data class=\"bible-ref\" data-start-ref=\"40008011\" data-end-ref=\"40008011\">Mt 8:11</data>, <data class=\"bible-ref\" data-start-ref=\"42013029\" data-end-ref=\"42013029\">Lk 13:29</data>; <span class=\"greek\" lang=\"grc\">ἐκ</span>, <data class=\"bible-ref\" data-start-ref=\"45011026\" data-end-ref=\"45011026\">Ro 11:26</data>; id. seq. <span class=\"greek\" lang=\"grc\">εἰς</span>, <data class=\"bible-ref\" data-start-ref=\"43004047\" data-end-ref=\"43004047\">Jo 4:47</data>; <span class=\"greek\" lang=\"grc\">μακρόθεν</span>, <data class=\"bible-ref\" data-start-ref=\"41008003\" data-end-ref=\"41008003\">Mk 8:3</data>; <span class=\"greek\" lang=\"grc\">ἐπί</span>, c. acc., <data class=\"bible-ref\" data-start-ref=\"66003003\" data-end-ref=\"66003003\">Re 3:3</data>. Metaph., of discipleship: <data class=\"bible-ref\" data-start-ref=\"43006037\" data-end-ref=\"43006037\">Jo 6:37</data>; of time and events: absol., <data class=\"bible-ref\" data-start-ref=\"40024014\" data-end-ref=\"40024014\">Mt 24:14</data>, <data class=\"bible-ref\" data-start-ref=\"43002004\" data-end-ref=\"43002004\">Jo 2:4</data>, <data class=\"bible-ref\" data-start-ref=\"61003010\" data-end-ref=\"61003010\">II Pe 3:10</data>, <data class=\"bible-ref\" data-start-ref=\"66018008\" data-end-ref=\"66018008\">Re 18:8</data>; seq. <span class=\"greek\" lang=\"grc\">ἐπί</span> c acc. pers., <data class=\"bible-ref\" data-start-ref=\"40023036\" data-end-ref=\"40023036\">Mt 23:36</data>, <data class=\"bible-ref\" data-start-ref=\"42019043\" data-end-ref=\"42019043\">Lk 19:43</data> (cf. <span class=\"greek\" lang=\"grc\">ἀν-</span>, <span class=\"greek\" lang=\"grc\">καθ-ήκω</span>).†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "62005020",
+"start_ref_usfm": "1JN 5:20",
+"end_ref": "62005020",
+"end_ref_usfm": "1JN 5:20"
+},
+{
+"start_ref": "61003010",
+"start_ref_usfm": "2PE 3:10",
+"end_ref": "61003010",
+"end_ref_usfm": "2PE 3:10"
+},
+{
+"start_ref": "58010007",
+"start_ref_usfm": "HEB 10:7",
+"end_ref": "58010007",
+"end_ref_usfm": "HEB 10:7"
+},
+{
+"start_ref": "58010009",
+"start_ref_usfm": "HEB 10:9",
+"end_ref": "58010009",
+"end_ref_usfm": "HEB 10:9"
+},
+{
+"start_ref": "58010037",
+"start_ref_usfm": "HEB 10:37",
+"end_ref": "58010037",
+"end_ref_usfm": "HEB 10:37"
+},
+{
+"start_ref": "43002004",
+"start_ref_usfm": "JHN 2:4",
+"end_ref": "43002004",
+"end_ref_usfm": "JHN 2:4"
+},
+{
+"start_ref": "43004047",
+"start_ref_usfm": "JHN 4:47",
+"end_ref": "43004047",
+"end_ref_usfm": "JHN 4:47"
+},
+{
+"start_ref": "43006037",
+"start_ref_usfm": "JHN 6:37",
+"end_ref": "43006037",
+"end_ref_usfm": "JHN 6:37"
+},
+{
+"start_ref": "43008042",
+"start_ref_usfm": "JHN 8:42",
+"end_ref": "43008042",
+"end_ref_usfm": "JHN 8:42"
+},
+{
+"start_ref": "42012046",
+"start_ref_usfm": "LUK 12:46",
+"end_ref": "42012046",
+"end_ref_usfm": "LUK 12:46"
+},
+{
+"start_ref": "42013029",
+"start_ref_usfm": "LUK 13:29",
+"end_ref": "42013029",
+"end_ref_usfm": "LUK 13:29"
+},
+{
+"start_ref": "42015027",
+"start_ref_usfm": "LUK 15:27",
+"end_ref": "42015027",
+"end_ref_usfm": "LUK 15:27"
+},
+{
+"start_ref": "42019043",
+"start_ref_usfm": "LUK 19:43",
+"end_ref": "42019043",
+"end_ref_usfm": "LUK 19:43"
+},
+{
+"start_ref": "40008011",
+"start_ref_usfm": "MAT 8:11",
+"end_ref": "40008011",
+"end_ref_usfm": "MAT 8:11"
+},
+{
+"start_ref": "40023036",
+"start_ref_usfm": "MAT 23:36",
+"end_ref": "40023036",
+"end_ref_usfm": "MAT 23:36"
+},
+{
+"start_ref": "40024014",
+"start_ref_usfm": "MAT 24:14",
+"end_ref": "40024014",
+"end_ref_usfm": "MAT 24:14"
+},
+{
+"start_ref": "40024050",
+"start_ref_usfm": "MAT 24:50",
+"end_ref": "40024050",
+"end_ref_usfm": "MAT 24:50"
+},
+{
+"start_ref": "41008003",
+"start_ref_usfm": "MRK 8:3",
+"end_ref": "41008003",
+"end_ref_usfm": "MRK 8:3"
+},
+{
+"start_ref": "66002025",
+"start_ref_usfm": "REV 2:25",
+"end_ref": "66002025",
+"end_ref_usfm": "REV 2:25"
+},
+{
+"start_ref": "66003003",
+"start_ref_usfm": "REV 3:3",
+"end_ref": "66003003",
+"end_ref_usfm": "REV 3:3"
+},
+{
+"start_ref": "66003009",
+"start_ref_usfm": "REV 3:9",
+"end_ref": "66003009",
+"end_ref_usfm": "REV 3:9"
+},
+{
+"start_ref": "66015004",
+"start_ref_usfm": "REV 15:4",
+"end_ref": "66015004",
+"end_ref_usfm": "REV 15:4"
+},
+{
+"start_ref": "66018008",
+"start_ref_usfm": "REV 18:8",
+"end_ref": "66018008",
+"end_ref_usfm": "REV 18:8"
+},
+{
+"start_ref": "45011026",
+"start_ref_usfm": "ROM 11:26",
+"end_ref": "45011026",
+"end_ref_usfm": "ROM 11:26"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02399",
+"reference_id": "ASL02399",
+"version": "1.0.4",
+"title": "ἡλεί",
+"media_type": "Text",
+"index_reference": "ἡλεί",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"199\"> <p class=\"as-head\"><span class=\"as-form\">† <b class=\"as-orth greek\" lang=\"grc\">ἡλεί</b> (Rec. <span class=\"greek\" lang=\"grc\">ἠλί</span>, L, <span class=\"greek\" lang=\"grc\">ἡλί</span>; <i class=\"as-emph\">Heb.</i> <span class=\"hebrew\" lang=\"he\" data-strongs=\"H410\">אֵלִי</span>), </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">Eli</i>, <i class=\"as-gloss\">my God</i>: <data class=\"bible-ref\" data-start-ref=\"40027046\" data-end-ref=\"40027046\">Mt 27:46</data> (cf. <span class=\"greek\" lang=\"grc\">ἐλωΐ</span>).†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "40027046",
+"start_ref_usfm": "MAT 27:46",
+"end_ref": "40027046",
+"end_ref_usfm": "MAT 27:46"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02400",
+"reference_id": "ASL02400",
+"version": "1.0.4",
+"title": "Ἡλεί",
+"media_type": "Text",
+"index_reference": "ἡλεί",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"199\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">Ἡλεί</b> (Rec. <span class=\"greek\" lang=\"grc\">Ἠλί</span>; RV, <span class=\"greek\" lang=\"grc\">Ἡλί</span>), <span class=\"greek\" lang=\"grc\">ὁ</span>, indecl.,</span></p> <div class=\"as-sense\"><i class=\"as-gloss\">Heli</i>, Joseph's father: <data class=\"bible-ref\" data-start-ref=\"42003023\" data-end-ref=\"42003023\">Lk 3:23</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "42003023",
+"start_ref_usfm": "LUK 3:23",
+"end_ref": "42003023",
+"end_ref_usfm": "LUK 3:23"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02401",
+"reference_id": "ASL02401",
+"version": "1.0.4",
+"title": "Ἡλείας",
+"media_type": "Text",
+"index_reference": "ἡλείας",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"199\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">Ἠλείας</b> (Rec. <span class=\"greek\" lang=\"grc\">Ἠλίας</span>; LTr., <span class=\"greek\" lang=\"grc\">Ἡλίας</span>; T, <span class=\"greek\" lang=\"grc\">Ἡλείας</span>; cf. WH, <i class=\"as-emph\">App.</i>, 155, <i class=\"as-emph\">Intr.</i>, § 408), <span class=\"greek\" lang=\"grc\">-ου</span> (<span class=\"greek\" lang=\"grc\">-α</span>, <data class=\"bible-ref\" data-start-ref=\"42001017\" data-end-ref=\"42001017\">Lk 1:17</data>, WH), <span class=\"greek\" lang=\"grc\">ὁ</span> (Heb. <span class=\"hebrew\" lang=\"he\" data-strongs=\"H452\">אֵלִיָּה</span>, <span class=\"hebrew\" lang=\"he\" data-strongs=\"H453\">אֵלִיָּהוּ</span>),</span></p> <div class=\"as-sense\"><i class=\"as-gloss\">Elijah</i> (<data class=\"bible-ref\" data-start-ref=\"11017001\" data-end-ref=\"11017024\">III Ki 17</data>, al.): <data class=\"bible-ref\" data-start-ref=\"40011014\" data-end-ref=\"40011014\">Mt 11:14</data> <data class=\"bible-ref\" data-start-ref=\"40016014\" data-end-ref=\"40016014\">16:14</data> <data class=\"bible-ref\" data-start-ref=\"40017003\" data-end-ref=\"40017003\">17:3</data>, <data class=\"bible-ref\" data-start-ref=\"40017004\" data-end-ref=\"40017004\">4</data>, <data class=\"bible-ref\" data-start-ref=\"40017010\" data-end-ref=\"40017012\">10–12</data> <data class=\"bible-ref\" data-start-ref=\"40027047\" data-end-ref=\"40027047\">27:47</data>, <data class=\"bible-ref\" data-start-ref=\"40027049\" data-end-ref=\"40027049\">49</data>, <data class=\"bible-ref\" data-start-ref=\"41006015\" data-end-ref=\"41006015\">Mk 6:15</data> <data class=\"bible-ref\" data-start-ref=\"41008028\" data-end-ref=\"41008028\">8:28</data> <data class=\"bible-ref\" data-start-ref=\"41009004\" data-end-ref=\"41009004\">9:4</data>, <data class=\"bible-ref\" data-start-ref=\"41009005\" data-end-ref=\"41009005\">5</data>, <data class=\"bible-ref\" data-start-ref=\"41009011\" data-end-ref=\"41009013\">11–13</data> <data class=\"bible-ref\" data-start-ref=\"41015035\" data-end-ref=\"41015035\">15:35</data>, <data class=\"bible-ref\" data-start-ref=\"41015036\" data-end-ref=\"41015036\">36</data>, <data class=\"bible-ref\" data-start-ref=\"42001017\" data-end-ref=\"42001017\">Lk 1:17</data> <data class=\"bible-ref\" data-start-ref=\"42004025\" data-end-ref=\"42004025\">4:25</data>, <data class=\"bible-ref\" data-start-ref=\"42004026\" data-end-ref=\"42004026\">26</data> <data class=\"bible-ref\" data-start-ref=\"42009008\" data-end-ref=\"42009008\">9:8</data>, <data class=\"bible-ref\" data-start-ref=\"42009019\" data-end-ref=\"42009019\">19</data>, <data class=\"bible-ref\" data-start-ref=\"42009030\" data-end-ref=\"42009030\">30</data>, <data class=\"bible-ref\" data-start-ref=\"42009033\" data-end-ref=\"42009033\">33</data>, <data class=\"bible-ref\" data-start-ref=\"42009054\" data-end-ref=\"42009054\">54</data>, <data class=\"bible-ref\" data-start-ref=\"43001021\" data-end-ref=\"43001021\">Jo 1:21</data>, <data class=\"bible-ref\" data-start-ref=\"43001025\" data-end-ref=\"43001025\">25</data>, <data class=\"bible-ref\" data-start-ref=\"59005017\" data-end-ref=\"59005017\">Ja 5:17</data>; <span class=\"greek\" lang=\"grc\">ἐν Ἠ.</span>, in the portion concerning E., <data class=\"bible-ref\" data-start-ref=\"45011002\" data-end-ref=\"45011002\">Ro 11:2</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11017001",
+"start_ref_usfm": "1KI 17:1",
+"end_ref": "11017024",
+"end_ref_usfm": "1KI 17:24"
+},
+{
+"start_ref": "59005017",
+"start_ref_usfm": "JAS 5:17",
+"end_ref": "59005017",
+"end_ref_usfm": "JAS 5:17"
+},
+{
+"start_ref": "43001021",
+"start_ref_usfm": "JHN 1:21",
+"end_ref": "43001021",
+"end_ref_usfm": "JHN 1:21"
+},
+{
+"start_ref": "43001025",
+"start_ref_usfm": "JHN 1:25",
+"end_ref": "43001025",
+"end_ref_usfm": "JHN 1:25"
+},
+{
+"start_ref": "42001017",
+"start_ref_usfm": "LUK 1:17",
+"end_ref": "42001017",
+"end_ref_usfm": "LUK 1:17"
+},
+{
+"start_ref": "42004025",
+"start_ref_usfm": "LUK 4:25",
+"end_ref": "42004025",
+"end_ref_usfm": "LUK 4:25"
+},
+{
+"start_ref": "42004026",
+"start_ref_usfm": "LUK 4:26",
+"end_ref": "42004026",
+"end_ref_usfm": "LUK 4:26"
+},
+{
+"start_ref": "42009008",
+"start_ref_usfm": "LUK 9:8",
+"end_ref": "42009008",
+"end_ref_usfm": "LUK 9:8"
+},
+{
+"start_ref": "42009019",
+"start_ref_usfm": "LUK 9:19",
+"end_ref": "42009019",
+"end_ref_usfm": "LUK 9:19"
+},
+{
+"start_ref": "42009030",
+"start_ref_usfm": "LUK 9:30",
+"end_ref": "42009030",
+"end_ref_usfm": "LUK 9:30"
+},
+{
+"start_ref": "42009033",
+"start_ref_usfm": "LUK 9:33",
+"end_ref": "42009033",
+"end_ref_usfm": "LUK 9:33"
+},
+{
+"start_ref": "42009054",
+"start_ref_usfm": "LUK 9:54",
+"end_ref": "42009054",
+"end_ref_usfm": "LUK 9:54"
+},
+{
+"start_ref": "40011014",
+"start_ref_usfm": "MAT 11:14",
+"end_ref": "40011014",
+"end_ref_usfm": "MAT 11:14"
+},
+{
+"start_ref": "40016014",
+"start_ref_usfm": "MAT 16:14",
+"end_ref": "40016014",
+"end_ref_usfm": "MAT 16:14"
+},
+{
+"start_ref": "40017003",
+"start_ref_usfm": "MAT 17:3",
+"end_ref": "40017003",
+"end_ref_usfm": "MAT 17:3"
+},
+{
+"start_ref": "40017004",
+"start_ref_usfm": "MAT 17:4",
+"end_ref": "40017004",
+"end_ref_usfm": "MAT 17:4"
+},
+{
+"start_ref": "40017010",
+"start_ref_usfm": "MAT 17:10",
+"end_ref": "40017012",
+"end_ref_usfm": "MAT 17:12"
+},
+{
+"start_ref": "40027047",
+"start_ref_usfm": "MAT 27:47",
+"end_ref": "40027047",
+"end_ref_usfm": "MAT 27:47"
+},
+{
+"start_ref": "40027049",
+"start_ref_usfm": "MAT 27:49",
+"end_ref": "40027049",
+"end_ref_usfm": "MAT 27:49"
+},
+{
+"start_ref": "41006015",
+"start_ref_usfm": "MRK 6:15",
+"end_ref": "41006015",
+"end_ref_usfm": "MRK 6:15"
+},
+{
+"start_ref": "41008028",
+"start_ref_usfm": "MRK 8:28",
+"end_ref": "41008028",
+"end_ref_usfm": "MRK 8:28"
+},
+{
+"start_ref": "41009004",
+"start_ref_usfm": "MRK 9:4",
+"end_ref": "41009004",
+"end_ref_usfm": "MRK 9:4"
+},
+{
+"start_ref": "41009005",
+"start_ref_usfm": "MRK 9:5",
+"end_ref": "41009005",
+"end_ref_usfm": "MRK 9:5"
+},
+{
+"start_ref": "41009011",
+"start_ref_usfm": "MRK 9:11",
+"end_ref": "41009013",
+"end_ref_usfm": "MRK 9:13"
+},
+{
+"start_ref": "41015035",
+"start_ref_usfm": "MRK 15:35",
+"end_ref": "41015035",
+"end_ref_usfm": "MRK 15:35"
+},
+{
+"start_ref": "41015036",
+"start_ref_usfm": "MRK 15:36",
+"end_ref": "41015036",
+"end_ref_usfm": "MRK 15:36"
+},
+{
+"start_ref": "45011002",
+"start_ref_usfm": "ROM 11:2",
+"end_ref": "45011002",
+"end_ref_usfm": "ROM 11:2"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02402",
+"reference_id": "ASL02402",
+"version": "1.0.4",
+"title": "ἡλικία",
+"media_type": "Text",
+"index_reference": "ἡλικία",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"199\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡλικία</b>, <span class=\"greek\" lang=\"grc\">-ας, ἡ</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(&lt; <span class=\"greek\" lang=\"grc\">ἧλιξ</span>, <i class=\"as-emph\">of the same age</i>, <i class=\"as-emph\">mature</i>),</span> <span class=\"as-lxx\">[in LXX: <data class=\"bible-ref\" data-start-ref=\"26013018\" data-end-ref=\"26013018\">Ez 13:18</data> (<span class=\"hebrew\" lang=\"he\" data-strongs=\"H6967\">קוֹמָה</span>), <data class=\"bible-ref\" data-start-ref=\"18029018\" data-end-ref=\"18029018\">Jb 29:18</data>, Wi 4:9, Si 26:17, freq. in II-IV Mac;]</span> </span></p> <div class=\"as-sense\">always of age or maturity; \"a stage of growth whether measured by age or stature\";</div> <div class=\"as-sense\" data-n=\"1.\"><span class=\"as-sense-n\">1.</span> <div class=\"as-sense\" data-n=\"(a)\"><span class=\"as-sense-n\">(a)</span> <i class=\"as-gloss\">age</i>: <data class=\"bible-ref\" data-start-ref=\"40006027\" data-end-ref=\"40006027\">Mt 6:27</data>, <data class=\"bible-ref\" data-start-ref=\"42012025\" data-end-ref=\"42012025\">Lk 12:25</data> (R, mg.), <data class=\"bible-ref\" data-start-ref=\"58011011\" data-end-ref=\"58011011\">He 11:11</data>;</div> <div class=\"as-sense\" data-n=\"(b)\"><span class=\"as-sense-n\">(b)</span> <i class=\"as-gloss\">full age</i>, <i class=\"as-gloss\">maturity</i>: <data class=\"bible-ref\" data-start-ref=\"43009021\" data-end-ref=\"43009021\">Jo 9:21</data>, <data class=\"bible-ref\" data-start-ref=\"43009023\" data-end-ref=\"43009023\">23</data>, <data class=\"bible-ref\" data-start-ref=\"49004013\" data-end-ref=\"49004013\">Eph 4:13</data>.</div></div> <div class=\"as-sense\" data-n=\"2.\"><span class=\"as-sense-n\">2.</span> <i class=\"as-gloss\">stature</i>: <data class=\"bible-ref\" data-start-ref=\"42019003\" data-end-ref=\"42019003\">Lk 19:3</data> (<data class=\"bible-ref\" data-start-ref=\"40006027\" data-end-ref=\"40006027\">Mt 6:27</data>, <data class=\"bible-ref\" data-start-ref=\"42012025\" data-end-ref=\"42012025\">Lk 12:25</data>, AV, R, txt.; but the prevailing usage in LXX and <span class=\"greek\" lang=\"grc\">π.</span> favours the former meaning in these doubtful passages; cf., Ellic., <i class=\"as-emph\">ICC</i>, AR, on <data class=\"bible-ref\" data-start-ref=\"49004013\" data-end-ref=\"49004013\">Eph 4:13</data>; Milligan, <i class=\"as-emph\">NTD</i>, 74 f., and esp., MM, <i class=\"as-emph\">Exp.</i>, xv; e contra, Field, <i class=\"as-emph\">Notes</i>, 6).†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "49004013",
+"start_ref_usfm": "EPH 4:13",
+"end_ref": "49004013",
+"end_ref_usfm": "EPH 4:13"
+},
+{
+"start_ref": "26013018",
+"start_ref_usfm": "EZK 13:18",
+"end_ref": "26013018",
+"end_ref_usfm": "EZK 13:18"
+},
+{
+"start_ref": "58011011",
+"start_ref_usfm": "HEB 11:11",
+"end_ref": "58011011",
+"end_ref_usfm": "HEB 11:11"
+},
+{
+"start_ref": "43009021",
+"start_ref_usfm": "JHN 9:21",
+"end_ref": "43009021",
+"end_ref_usfm": "JHN 9:21"
+},
+{
+"start_ref": "43009023",
+"start_ref_usfm": "JHN 9:23",
+"end_ref": "43009023",
+"end_ref_usfm": "JHN 9:23"
+},
+{
+"start_ref": "18029018",
+"start_ref_usfm": "JOB 29:18",
+"end_ref": "18029018",
+"end_ref_usfm": "JOB 29:18"
+},
+{
+"start_ref": "42012025",
+"start_ref_usfm": "LUK 12:25",
+"end_ref": "42012025",
+"end_ref_usfm": "LUK 12:25"
+},
+{
+"start_ref": "42019003",
+"start_ref_usfm": "LUK 19:3",
+"end_ref": "42019003",
+"end_ref_usfm": "LUK 19:3"
+},
+{
+"start_ref": "40006027",
+"start_ref_usfm": "MAT 6:27",
+"end_ref": "40006027",
+"end_ref_usfm": "MAT 6:27"
+},
+{
+"start_ref": "72026017",
+"start_ref_usfm": "SIR 26:17",
+"end_ref": "72026017",
+"end_ref_usfm": "SIR 26:17"
+},
+{
+"start_ref": "71004009",
+"start_ref_usfm": "WIS 4:9",
+"end_ref": "71004009",
+"end_ref_usfm": "WIS 4:9"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02403",
+"reference_id": "ASL02403",
+"version": "1.0.4",
+"title": "ἡλίκος",
+"media_type": "Text",
+"index_reference": "ἡλίκος",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"199\"> <p class=\"as-head\"><span class=\"as-form\">* <b class=\"as-orth greek\" lang=\"grc\">ἡλίκος</b>, <span class=\"greek\" lang=\"grc\">-η, -ον</span>,</span></p> <div class=\"as-sense\" data-n=\"1.\"><span class=\"as-sense-n\">1.</span> prop., <i class=\"as-gloss\">as big as</i>, <i class=\"as-gloss\">as old as</i>.</div> <div class=\"as-sense\" data-n=\"2.\"><span class=\"as-sense-n\">2.</span> As indirect interrog., <i class=\"as-gloss\">what sized</i>, <i class=\"as-gloss\">what</i>, <i class=\"as-gloss\">how great</i>, <i class=\"as-gloss\">how small</i> (the sense to be determined by the context): <data class=\"bible-ref\" data-start-ref=\"51002001\" data-end-ref=\"51002001\">Col 2:1</data>, <data class=\"bible-ref\" data-start-ref=\"59003005\" data-end-ref=\"59003005\">Ja 3:5</data>, <data class=\"bible-ref\" data-start-ref=\"48006011\" data-end-ref=\"48006011\">Ga 6:11</data> (WH, mg.; <span class=\"greek\" lang=\"grc\">πηλ-</span>, WH, txt., RV).†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "51002001",
+"start_ref_usfm": "COL 2:1",
+"end_ref": "51002001",
+"end_ref_usfm": "COL 2:1"
+},
+{
+"start_ref": "48006011",
+"start_ref_usfm": "GAL 6:11",
+"end_ref": "48006011",
+"end_ref_usfm": "GAL 6:11"
+},
+{
+"start_ref": "59003005",
+"start_ref_usfm": "JAS 3:5",
+"end_ref": "59003005",
+"end_ref_usfm": "JAS 3:5"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02404",
+"reference_id": "ASL02404",
+"version": "1.0.4",
+"title": "ἥλιος",
+"media_type": "Text",
+"index_reference": "ἥλιος",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"199\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἥλιος</b>, <span class=\"greek\" lang=\"grc\">-ου, ὁ</span>,</span> <span class=\"as-etym\"> <span class=\"as-lxx\">[in LXX chiefly for <span class=\"hebrew\" lang=\"he\" data-strongs=\"H8121\">שֶׁמֶשׁ</span>;] </span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">the sun</i>: with art. (Bl., § 46, 5), <data class=\"bible-ref\" data-start-ref=\"40005045\" data-end-ref=\"40005045\">Mt 5:45</data> <data class=\"bible-ref\" data-start-ref=\"40013043\" data-end-ref=\"40013043\">13:43</data> <data class=\"bible-ref\" data-start-ref=\"40017002\" data-end-ref=\"40017002\">17:2</data> <data class=\"bible-ref\" data-start-ref=\"40024029\" data-end-ref=\"40024029\">24:29</data>, <data class=\"bible-ref\" data-start-ref=\"41001032\" data-end-ref=\"41001032\">Mk 1:32</data> <data class=\"bible-ref\" data-start-ref=\"41004006\" data-end-ref=\"41004006\">4:6</data> <data class=\"bible-ref\" data-start-ref=\"41013024\" data-end-ref=\"41013024\">13:24</data> <data class=\"bible-ref\" data-start-ref=\"41016002\" data-end-ref=\"41016002\">16:2</data>, <data class=\"bible-ref\" data-start-ref=\"42004040\" data-end-ref=\"42004040\">Lk 4:40</data>, <data class=\"bible-ref\" data-start-ref=\"44002020\" data-end-ref=\"44002020\">Ac 2:20</data><sup>(LXX)</sup> <data class=\"bible-ref\" data-start-ref=\"44026013\" data-end-ref=\"44026013\">26:13</data>, <data class=\"bible-ref\" data-start-ref=\"49004026\" data-end-ref=\"49004026\">Eph 4:26</data>, <data class=\"bible-ref\" data-start-ref=\"59001011\" data-end-ref=\"59001011\">Ja 1:11</data>, <data class=\"bible-ref\" data-start-ref=\"66001016\" data-end-ref=\"66001016\">Re 1:16</data> <data class=\"bible-ref\" data-start-ref=\"66006012\" data-end-ref=\"66006012\">6:12</data> <data class=\"bible-ref\" data-start-ref=\"66008012\" data-end-ref=\"66008012\">8:12</data> <data class=\"bible-ref\" data-start-ref=\"66009002\" data-end-ref=\"66009002\">9:2</data> <data class=\"bible-ref\" data-start-ref=\"66010001\" data-end-ref=\"66010001\">10:1</data> <data class=\"bible-ref\" data-start-ref=\"66012001\" data-end-ref=\"66012001\">12:1</data> <data class=\"bible-ref\" data-start-ref=\"66016008\" data-end-ref=\"66016008\">16:8</data> <data class=\"bible-ref\" data-start-ref=\"66019017\" data-end-ref=\"66019017\">19:17</data> <data class=\"bible-ref\" data-start-ref=\"66021023\" data-end-ref=\"66021023\">21:23</data>; <span class=\"greek\" lang=\"grc\">βλέπειν τὸν ἥ.</span>, <data class=\"bible-ref\" data-start-ref=\"44013011\" data-end-ref=\"44013011\">Ac 13:11</data>; <span class=\"greek\" lang=\"grc\">οὐδὲ μὴ πέσῃ ἐπ’ αὐτοὺς ὁ ἥ.</span>, <data class=\"bible-ref\" data-start-ref=\"66007016\" data-end-ref=\"66007016\">Re 7:16</data>; without art., <data class=\"bible-ref\" data-start-ref=\"40013006\" data-end-ref=\"40013006\">Mt 13:6</data>, <data class=\"bible-ref\" data-start-ref=\"42021025\" data-end-ref=\"42021025\">Lk 21:25</data> <data class=\"bible-ref\" data-start-ref=\"42023045\" data-end-ref=\"42023045\">23:45</data>, <data class=\"bible-ref\" data-start-ref=\"44027020\" data-end-ref=\"44027020\">Ac 27:20</data>, <data class=\"bible-ref\" data-start-ref=\"46015041\" data-end-ref=\"46015041\">I Co 15:41</data>, <data class=\"bible-ref\" data-start-ref=\"66007002\" data-end-ref=\"66007002\">Re 7:2</data> <data class=\"bible-ref\" data-start-ref=\"66016012\" data-end-ref=\"66016012\">16:12</data> <data class=\"bible-ref\" data-start-ref=\"66022005\" data-end-ref=\"66022005\">22:5</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "46015041",
+"start_ref_usfm": "1CO 15:41",
+"end_ref": "46015041",
+"end_ref_usfm": "1CO 15:41"
+},
+{
+"start_ref": "44002020",
+"start_ref_usfm": "ACT 2:20",
+"end_ref": "44002020",
+"end_ref_usfm": "ACT 2:20"
+},
+{
+"start_ref": "44013011",
+"start_ref_usfm": "ACT 13:11",
+"end_ref": "44013011",
+"end_ref_usfm": "ACT 13:11"
+},
+{
+"start_ref": "44026013",
+"start_ref_usfm": "ACT 26:13",
+"end_ref": "44026013",
+"end_ref_usfm": "ACT 26:13"
+},
+{
+"start_ref": "44027020",
+"start_ref_usfm": "ACT 27:20",
+"end_ref": "44027020",
+"end_ref_usfm": "ACT 27:20"
+},
+{
+"start_ref": "49004026",
+"start_ref_usfm": "EPH 4:26",
+"end_ref": "49004026",
+"end_ref_usfm": "EPH 4:26"
+},
+{
+"start_ref": "59001011",
+"start_ref_usfm": "JAS 1:11",
+"end_ref": "59001011",
+"end_ref_usfm": "JAS 1:11"
+},
+{
+"start_ref": "42004040",
+"start_ref_usfm": "LUK 4:40",
+"end_ref": "42004040",
+"end_ref_usfm": "LUK 4:40"
+},
+{
+"start_ref": "42021025",
+"start_ref_usfm": "LUK 21:25",
+"end_ref": "42021025",
+"end_ref_usfm": "LUK 21:25"
+},
+{
+"start_ref": "42023045",
+"start_ref_usfm": "LUK 23:45",
+"end_ref": "42023045",
+"end_ref_usfm": "LUK 23:45"
+},
+{
+"start_ref": "40005045",
+"start_ref_usfm": "MAT 5:45",
+"end_ref": "40005045",
+"end_ref_usfm": "MAT 5:45"
+},
+{
+"start_ref": "40013006",
+"start_ref_usfm": "MAT 13:6",
+"end_ref": "40013006",
+"end_ref_usfm": "MAT 13:6"
+},
+{
+"start_ref": "40013043",
+"start_ref_usfm": "MAT 13:43",
+"end_ref": "40013043",
+"end_ref_usfm": "MAT 13:43"
+},
+{
+"start_ref": "40017002",
+"start_ref_usfm": "MAT 17:2",
+"end_ref": "40017002",
+"end_ref_usfm": "MAT 17:2"
+},
+{
+"start_ref": "40024029",
+"start_ref_usfm": "MAT 24:29",
+"end_ref": "40024029",
+"end_ref_usfm": "MAT 24:29"
+},
+{
+"start_ref": "41001032",
+"start_ref_usfm": "MRK 1:32",
+"end_ref": "41001032",
+"end_ref_usfm": "MRK 1:32"
+},
+{
+"start_ref": "41004006",
+"start_ref_usfm": "MRK 4:6",
+"end_ref": "41004006",
+"end_ref_usfm": "MRK 4:6"
+},
+{
+"start_ref": "41013024",
+"start_ref_usfm": "MRK 13:24",
+"end_ref": "41013024",
+"end_ref_usfm": "MRK 13:24"
+},
+{
+"start_ref": "41016002",
+"start_ref_usfm": "MRK 16:2",
+"end_ref": "41016002",
+"end_ref_usfm": "MRK 16:2"
+},
+{
+"start_ref": "66001016",
+"start_ref_usfm": "REV 1:16",
+"end_ref": "66001016",
+"end_ref_usfm": "REV 1:16"
+},
+{
+"start_ref": "66006012",
+"start_ref_usfm": "REV 6:12",
+"end_ref": "66006012",
+"end_ref_usfm": "REV 6:12"
+},
+{
+"start_ref": "66007002",
+"start_ref_usfm": "REV 7:2",
+"end_ref": "66007002",
+"end_ref_usfm": "REV 7:2"
+},
+{
+"start_ref": "66007016",
+"start_ref_usfm": "REV 7:16",
+"end_ref": "66007016",
+"end_ref_usfm": "REV 7:16"
+},
+{
+"start_ref": "66008012",
+"start_ref_usfm": "REV 8:12",
+"end_ref": "66008012",
+"end_ref_usfm": "REV 8:12"
+},
+{
+"start_ref": "66009002",
+"start_ref_usfm": "REV 9:2",
+"end_ref": "66009002",
+"end_ref_usfm": "REV 9:2"
+},
+{
+"start_ref": "66010001",
+"start_ref_usfm": "REV 10:1",
+"end_ref": "66010001",
+"end_ref_usfm": "REV 10:1"
+},
+{
+"start_ref": "66012001",
+"start_ref_usfm": "REV 12:1",
+"end_ref": "66012001",
+"end_ref_usfm": "REV 12:1"
+},
+{
+"start_ref": "66016008",
+"start_ref_usfm": "REV 16:8",
+"end_ref": "66016008",
+"end_ref_usfm": "REV 16:8"
+},
+{
+"start_ref": "66016012",
+"start_ref_usfm": "REV 16:12",
+"end_ref": "66016012",
+"end_ref_usfm": "REV 16:12"
+},
+{
+"start_ref": "66019017",
+"start_ref_usfm": "REV 19:17",
+"end_ref": "66019017",
+"end_ref_usfm": "REV 19:17"
+},
+{
+"start_ref": "66021023",
+"start_ref_usfm": "REV 21:23",
+"end_ref": "66021023",
+"end_ref_usfm": "REV 21:23"
+},
+{
+"start_ref": "66022005",
+"start_ref_usfm": "REV 22:5",
+"end_ref": "66022005",
+"end_ref_usfm": "REV 22:5"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02405",
+"reference_id": "ASL02405",
+"version": "1.0.4",
+"title": "ἧλος",
+"media_type": "Text",
+"index_reference": "ἧλος",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"199\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἧλος</b>, <span class=\"greek\" lang=\"grc\">-ου, ὁ</span>,</span> <span class=\"as-etym\"> <span class=\"as-lxx\">[in LXX: <data class=\"bible-ref\" data-start-ref=\"23041007\" data-end-ref=\"23041007\">Is 41:7</data> (<span class=\"hebrew\" lang=\"he\" data-strongs=\"H4548\">מַסְמְרִים</span>) etc.;]</span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">a nail</i>: <data class=\"bible-ref\" data-start-ref=\"43020025\" data-end-ref=\"43020025\">Jo 20:25</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23041007",
+"start_ref_usfm": "ISA 41:7",
+"end_ref": "23041007",
+"end_ref_usfm": "ISA 41:7"
+},
+{
+"start_ref": "43020025",
+"start_ref_usfm": "JHN 20:25",
+"end_ref": "43020025",
+"end_ref_usfm": "JHN 20:25"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02406",
+"reference_id": "ASL02406",
+"version": "1.0.4",
+"title": "ἡμεῖς",
+"media_type": "Text",
+"index_reference": "ἡμεῖς",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"199\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡμεῖς</b>, v.s. <span class=\"greek\" lang=\"grc\">ἐγώ</span>.</span></p> </div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02407",
+"reference_id": "ASL02407",
+"version": "1.0.4",
+"title": "ἡμέρα",
+"media_type": "Text",
+"index_reference": "ἡμέρα",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"199\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡμέρα</b>, <span class=\"greek\" lang=\"grc\">-ας, ἡ</span>,</span> <span class=\"as-etym\"> <span class=\"as-lxx\">[in LXX chiefly (very freq.) for <span class=\"hebrew\" lang=\"he\" data-strongs=\"H3117\">יוֹם</span>;]</span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">day</i>; <div class=\"as-sense\" data-n=\"1.\"><span class=\"as-sense-n\">1.</span> as distinct from night: gen. <span class=\"greek\" lang=\"grc\">ἡμέρας</span>, <i class=\"as-gloss\">by day</i> (WM, §30, 11), <data class=\"bible-ref\" data-start-ref=\"66021025\" data-end-ref=\"66021025\">Re 21:25</data>; <span class=\"greek\" lang=\"grc\">ἡ. κ. νυκτός (ν. κ. ἡ.)</span>, <data class=\"bible-ref\" data-start-ref=\"44009024\" data-end-ref=\"44009024\">Ac 9:24</data>, <data class=\"bible-ref\" data-start-ref=\"52002009\" data-end-ref=\"52002009\">I Th 2:9</data>, <data class=\"bible-ref\" data-start-ref=\"53003008\" data-end-ref=\"53003008\">II Th 3:8</data>, <data class=\"bible-ref\" data-start-ref=\"66004008\" data-end-ref=\"66004008\">Re 4:8</data> (Bl., §36, 13); <span class=\"greek\" lang=\"grc\">ἡμέρας μέσης</span>, <i class=\"as-gloss\">at mid-day</i>, <data class=\"bible-ref\" data-start-ref=\"44026013\" data-end-ref=\"44026013\">Ac 26:13</data>; acc. durat., <span class=\"greek\" lang=\"grc\">τ. ἡμέρας</span>, <data class=\"bible-ref\" data-start-ref=\"42021037\" data-end-ref=\"42021037\">Lk 21:37</data>; <span class=\"greek\" lang=\"grc\">ὅλην τὴν ἡ.</span>, <data class=\"bible-ref\" data-start-ref=\"45008036\" data-end-ref=\"45008036\">Ro 8:36</data>; <span class=\"greek\" lang=\"grc\">ἐν ἡμέρᾳ</span>, <data class=\"bible-ref\" data-start-ref=\"43011009\" data-end-ref=\"43011009\">Jo 11:9</data>, <data class=\"bible-ref\" data-start-ref=\"45013013\" data-end-ref=\"45013013\">Ro 13:13</data>; <span class=\"greek\" lang=\"grc\">ἡμέρας ὁδός</span>, <i class=\"as-gloss\">a day's journey</i>, <data class=\"bible-ref\" data-start-ref=\"42002044\" data-end-ref=\"42002044\">Lk 2:44</data>; <span class=\"greek\" lang=\"grc\">ἡ. γίνεται</span>, <data class=\"bible-ref\" data-start-ref=\"42004042\" data-end-ref=\"42004042\">Lk 4:42</data> <data class=\"bible-ref\" data-start-ref=\"42022066\" data-end-ref=\"42022066\">22:66</data>; <span class=\"greek\" lang=\"grc\">κλίνει</span>, <data class=\"bible-ref\" data-start-ref=\"42009012\" data-end-ref=\"42009012\">Lk 9:12</data>, al.; metaph., <data class=\"bible-ref\" data-start-ref=\"43009004\" data-end-ref=\"43009004\">Jo 9:4</data>, <data class=\"bible-ref\" data-start-ref=\"45013012\" data-end-ref=\"45013012\">Ro 13:12</data>, <data class=\"bible-ref\" data-start-ref=\"52005004\" data-end-ref=\"52005004\">I Th 5:4</data>, <data class=\"bible-ref\" data-start-ref=\"52005005\" data-end-ref=\"52005005\">5</data>, <data class=\"bible-ref\" data-start-ref=\"52005008\" data-end-ref=\"52005008\">8</data>, <data class=\"bible-ref\" data-start-ref=\"61001019\" data-end-ref=\"61001019\">II Pe 1:19</data>.</div> <div class=\"as-sense\" data-n=\"2.\"><span class=\"as-sense-n\">2.</span> Of a civil day of 24 hours, incl. night: <data class=\"bible-ref\" data-start-ref=\"40006034\" data-end-ref=\"40006034\">Mt 6:34</data>, <data class=\"bible-ref\" data-start-ref=\"41006021\" data-end-ref=\"41006021\">Mk 6:21</data>, <data class=\"bible-ref\" data-start-ref=\"42013014\" data-end-ref=\"42013014\">Lk 13:14</data>, al.; <span class=\"greek\" lang=\"grc\">τρίτῃ ἡ.</span>, <data class=\"bible-ref\" data-start-ref=\"40016021\" data-end-ref=\"40016021\">Mt 16:21</data>; <span class=\"greek\" lang=\"grc\">ἡμέρᾳ κ. ἡ.</span> (cf. <span class=\"hebrew\" lang=\"he\" data-strongs=\"H3117\">יוֹם בְּיֹום</span>, <data class=\"bible-ref\" data-start-ref=\"17003004\" data-end-ref=\"17003004\">Es 3:4</data>), <data class=\"bible-ref\" data-start-ref=\"47004016\" data-end-ref=\"47004016\">II Co 4:16</data>; <span class=\"greek\" lang=\"grc\">ὅλην τ. ἡ.</span>, <data class=\"bible-ref\" data-start-ref=\"45008036\" data-end-ref=\"45008036\">Ro 8:36</data> <data class=\"bible-ref\" data-start-ref=\"45010021\" data-end-ref=\"45010021\">10:21</data>; pl., <data class=\"bible-ref\" data-start-ref=\"43002012\" data-end-ref=\"43002012\">Jo 2:12</data>, <data class=\"bible-ref\" data-start-ref=\"44009019\" data-end-ref=\"44009019\">Ac 9:19</data>, al.; <span class=\"greek\" lang=\"grc\">ἡ. τῶν ἀζύμων</span>, <data class=\"bible-ref\" data-start-ref=\"44012003\" data-end-ref=\"44012003\">Ac 12:3</data>; <span class=\"greek\" lang=\"grc\">τ. σαββάτου</span>, <data class=\"bible-ref\" data-start-ref=\"42013014\" data-end-ref=\"42013014\">Lk 13:14</data>, <data class=\"bible-ref\" data-start-ref=\"42013016\" data-end-ref=\"42013016\">16</data>; <span class=\"greek\" lang=\"grc\">ἡ κυριάκη ἡ.</span>, <data class=\"bible-ref\" data-start-ref=\"66001010\" data-end-ref=\"66001010\">Re 1:10</data>.</div> <div class=\"as-sense\" data-n=\"3.\"><span class=\"as-sense-n\">3.</span> In Messianic sense, of the last day: <span class=\"greek\" lang=\"grc\">ἡ ἡ.</span> (<span class=\"greek\" lang=\"grc\">ἐκείνη, τ. κυρίου</span>, etc.), <data class=\"bible-ref\" data-start-ref=\"40007022\" data-end-ref=\"40007022\">Mt 7:22</data>, <data class=\"bible-ref\" data-start-ref=\"42006023\" data-end-ref=\"42006023\">Lk 6:23</data>, <data class=\"bible-ref\" data-start-ref=\"45013012\" data-end-ref=\"45013012\">Ro 13:12</data>, <data class=\"bible-ref\" data-start-ref=\"46001008\" data-end-ref=\"46001008\">I Co 1:8</data>, <data class=\"bible-ref\" data-start-ref=\"52005002\" data-end-ref=\"52005002\">I Th 5:2</data>, <data class=\"bible-ref\" data-start-ref=\"53002002\" data-end-ref=\"53002002\">II Th 2:2</data>, <data class=\"bible-ref\" data-start-ref=\"61003010\" data-end-ref=\"61003010\">II Pe 3:10</data>, al.; by meton., as compared with the divine judgment on that day, <span class=\"greek\" lang=\"grc\">ἡ. ἀνθρωπίνη</span>, of a human <i class=\"as-gloss\">tribunal</i>, <data class=\"bible-ref\" data-start-ref=\"46004003\" data-end-ref=\"46004003\">I Co 4:3</data> (EV, <i class=\"as-emph\">man's judgment</i>).</div> <div class=\"as-sense\" data-n=\"4.\"><span class=\"as-sense-n\">4.</span> As in Heb. (also in Gk. writers; Bl., §46, 9; M, <i class=\"as-emph\">Pr.</i>, 81), of time in general: <data class=\"bible-ref\" data-start-ref=\"43008056\" data-end-ref=\"43008056\">Jo 8:56</data> <data class=\"bible-ref\" data-start-ref=\"43014020\" data-end-ref=\"43014020\">14:20</data>, <data class=\"bible-ref\" data-start-ref=\"47006002\" data-end-ref=\"47006002\">II Co 6:2</data>, <data class=\"bible-ref\" data-start-ref=\"49006013\" data-end-ref=\"49006013\">Eph 6:13</data>, <data class=\"bible-ref\" data-start-ref=\"61003018\" data-end-ref=\"61003018\">II Pe 3:18</data>; pl., <data class=\"bible-ref\" data-start-ref=\"44015007\" data-end-ref=\"44015007\">Ac 15:7</data>, <data class=\"bible-ref\" data-start-ref=\"49005016\" data-end-ref=\"49005016\">Eph 5:16</data>, <data class=\"bible-ref\" data-start-ref=\"58010032\" data-end-ref=\"58010032\">He 10:32</data>; <span class=\"greek\" lang=\"grc\">πᾶσας τὰς ἡ.</span> (cf. <span class=\"hebrew\" lang=\"he\">כָּל הַיָּמִים</span>, <data class=\"bible-ref\" data-start-ref=\"05004040\" data-end-ref=\"05004040\">De 4:40</data>, al.; MM, <i class=\"as-emph\">Exp.</i>, xv), <data class=\"bible-ref\" data-start-ref=\"40028020\" data-end-ref=\"40028020\">Mt 28:20</data>; <span class=\"greek\" lang=\"grc\">ἐλεύσονται ἡ. ὅταν (ὅτε)</span>, <data class=\"bible-ref\" data-start-ref=\"40009015\" data-end-ref=\"40009015\">Mt 9:15</data>, <data class=\"bible-ref\" data-start-ref=\"41002020\" data-end-ref=\"41002020\">Mk 2:20</data>, <data class=\"bible-ref\" data-start-ref=\"42005035\" data-end-ref=\"42005035\">Lk 5:35</data> <data class=\"bible-ref\" data-start-ref=\"42017022\" data-end-ref=\"42017022\">17:22</data>; <span class=\"greek\" lang=\"grc\">αἱ ἡ.</span>, c. gen. pers. (<data class=\"bible-ref\" data-start-ref=\"01026001\" data-end-ref=\"01026001\">Ge 26:1</data>, al.), <data class=\"bible-ref\" data-start-ref=\"40002001\" data-end-ref=\"40002001\">Mt 2:1</data>, <data class=\"bible-ref\" data-start-ref=\"42001005\" data-end-ref=\"42001005\">Lk 1:5</data>, <data class=\"bible-ref\" data-start-ref=\"44007045\" data-end-ref=\"44007045\">Ac 7:45</data>, <data class=\"bible-ref\" data-start-ref=\"60003020\" data-end-ref=\"60003020\">I Pe 3:20</data>; <span class=\"greek\" lang=\"grc\">ἀρχὴ ἡμερῶν</span>, <data class=\"bible-ref\" data-start-ref=\"58007003\" data-end-ref=\"58007003\">He 7:3</data>.</div></div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "46001008",
+"start_ref_usfm": "1CO 1:8",
+"end_ref": "46001008",
+"end_ref_usfm": "1CO 1:8"
+},
+{
+"start_ref": "46004003",
+"start_ref_usfm": "1CO 4:3",
+"end_ref": "46004003",
+"end_ref_usfm": "1CO 4:3"
+},
+{
+"start_ref": "60003020",
+"start_ref_usfm": "1PE 3:20",
+"end_ref": "60003020",
+"end_ref_usfm": "1PE 3:20"
+},
+{
+"start_ref": "52002009",
+"start_ref_usfm": "1TH 2:9",
+"end_ref": "52002009",
+"end_ref_usfm": "1TH 2:9"
+},
+{
+"start_ref": "52005002",
+"start_ref_usfm": "1TH 5:2",
+"end_ref": "52005002",
+"end_ref_usfm": "1TH 5:2"
+},
+{
+"start_ref": "52005004",
+"start_ref_usfm": "1TH 5:4",
+"end_ref": "52005004",
+"end_ref_usfm": "1TH 5:4"
+},
+{
+"start_ref": "52005005",
+"start_ref_usfm": "1TH 5:5",
+"end_ref": "52005005",
+"end_ref_usfm": "1TH 5:5"
+},
+{
+"start_ref": "52005008",
+"start_ref_usfm": "1TH 5:8",
+"end_ref": "52005008",
+"end_ref_usfm": "1TH 5:8"
+},
+{
+"start_ref": "47004016",
+"start_ref_usfm": "2CO 4:16",
+"end_ref": "47004016",
+"end_ref_usfm": "2CO 4:16"
+},
+{
+"start_ref": "47006002",
+"start_ref_usfm": "2CO 6:2",
+"end_ref": "47006002",
+"end_ref_usfm": "2CO 6:2"
+},
+{
+"start_ref": "61001019",
+"start_ref_usfm": "2PE 1:19",
+"end_ref": "61001019",
+"end_ref_usfm": "2PE 1:19"
+},
+{
+"start_ref": "61003010",
+"start_ref_usfm": "2PE 3:10",
+"end_ref": "61003010",
+"end_ref_usfm": "2PE 3:10"
+},
+{
+"start_ref": "61003018",
+"start_ref_usfm": "2PE 3:18",
+"end_ref": "61003018",
+"end_ref_usfm": "2PE 3:18"
+},
+{
+"start_ref": "53002002",
+"start_ref_usfm": "2TH 2:2",
+"end_ref": "53002002",
+"end_ref_usfm": "2TH 2:2"
+},
+{
+"start_ref": "53003008",
+"start_ref_usfm": "2TH 3:8",
+"end_ref": "53003008",
+"end_ref_usfm": "2TH 3:8"
+},
+{
+"start_ref": "44007045",
+"start_ref_usfm": "ACT 7:45",
+"end_ref": "44007045",
+"end_ref_usfm": "ACT 7:45"
+},
+{
+"start_ref": "44009019",
+"start_ref_usfm": "ACT 9:19",
+"end_ref": "44009019",
+"end_ref_usfm": "ACT 9:19"
+},
+{
+"start_ref": "44009024",
+"start_ref_usfm": "ACT 9:24",
+"end_ref": "44009024",
+"end_ref_usfm": "ACT 9:24"
+},
+{
+"start_ref": "44012003",
+"start_ref_usfm": "ACT 12:3",
+"end_ref": "44012003",
+"end_ref_usfm": "ACT 12:3"
+},
+{
+"start_ref": "44015007",
+"start_ref_usfm": "ACT 15:7",
+"end_ref": "44015007",
+"end_ref_usfm": "ACT 15:7"
+},
+{
+"start_ref": "44026013",
+"start_ref_usfm": "ACT 26:13",
+"end_ref": "44026013",
+"end_ref_usfm": "ACT 26:13"
+},
+{
+"start_ref": "05004040",
+"start_ref_usfm": "DEU 4:40",
+"end_ref": "05004040",
+"end_ref_usfm": "DEU 4:40"
+},
+{
+"start_ref": "49005016",
+"start_ref_usfm": "EPH 5:16",
+"end_ref": "49005016",
+"end_ref_usfm": "EPH 5:16"
+},
+{
+"start_ref": "49006013",
+"start_ref_usfm": "EPH 6:13",
+"end_ref": "49006013",
+"end_ref_usfm": "EPH 6:13"
+},
+{
+"start_ref": "17003004",
+"start_ref_usfm": "EST 3:4",
+"end_ref": "17003004",
+"end_ref_usfm": "EST 3:4"
+},
+{
+"start_ref": "01026001",
+"start_ref_usfm": "GEN 26:1",
+"end_ref": "01026001",
+"end_ref_usfm": "GEN 26:1"
+},
+{
+"start_ref": "58007003",
+"start_ref_usfm": "HEB 7:3",
+"end_ref": "58007003",
+"end_ref_usfm": "HEB 7:3"
+},
+{
+"start_ref": "58010032",
+"start_ref_usfm": "HEB 10:32",
+"end_ref": "58010032",
+"end_ref_usfm": "HEB 10:32"
+},
+{
+"start_ref": "43002012",
+"start_ref_usfm": "JHN 2:12",
+"end_ref": "43002012",
+"end_ref_usfm": "JHN 2:12"
+},
+{
+"start_ref": "43008056",
+"start_ref_usfm": "JHN 8:56",
+"end_ref": "43008056",
+"end_ref_usfm": "JHN 8:56"
+},
+{
+"start_ref": "43009004",
+"start_ref_usfm": "JHN 9:4",
+"end_ref": "43009004",
+"end_ref_usfm": "JHN 9:4"
+},
+{
+"start_ref": "43011009",
+"start_ref_usfm": "JHN 11:9",
+"end_ref": "43011009",
+"end_ref_usfm": "JHN 11:9"
+},
+{
+"start_ref": "43014020",
+"start_ref_usfm": "JHN 14:20",
+"end_ref": "43014020",
+"end_ref_usfm": "JHN 14:20"
+},
+{
+"start_ref": "42001005",
+"start_ref_usfm": "LUK 1:5",
+"end_ref": "42001005",
+"end_ref_usfm": "LUK 1:5"
+},
+{
+"start_ref": "42002044",
+"start_ref_usfm": "LUK 2:44",
+"end_ref": "42002044",
+"end_ref_usfm": "LUK 2:44"
+},
+{
+"start_ref": "42004042",
+"start_ref_usfm": "LUK 4:42",
+"end_ref": "42004042",
+"end_ref_usfm": "LUK 4:42"
+},
+{
+"start_ref": "42005035",
+"start_ref_usfm": "LUK 5:35",
+"end_ref": "42005035",
+"end_ref_usfm": "LUK 5:35"
+},
+{
+"start_ref": "42006023",
+"start_ref_usfm": "LUK 6:23",
+"end_ref": "42006023",
+"end_ref_usfm": "LUK 6:23"
+},
+{
+"start_ref": "42009012",
+"start_ref_usfm": "LUK 9:12",
+"end_ref": "42009012",
+"end_ref_usfm": "LUK 9:12"
+},
+{
+"start_ref": "42013014",
+"start_ref_usfm": "LUK 13:14",
+"end_ref": "42013014",
+"end_ref_usfm": "LUK 13:14"
+},
+{
+"start_ref": "42013016",
+"start_ref_usfm": "LUK 13:16",
+"end_ref": "42013016",
+"end_ref_usfm": "LUK 13:16"
+},
+{
+"start_ref": "42017022",
+"start_ref_usfm": "LUK 17:22",
+"end_ref": "42017022",
+"end_ref_usfm": "LUK 17:22"
+},
+{
+"start_ref": "42021037",
+"start_ref_usfm": "LUK 21:37",
+"end_ref": "42021037",
+"end_ref_usfm": "LUK 21:37"
+},
+{
+"start_ref": "42022066",
+"start_ref_usfm": "LUK 22:66",
+"end_ref": "42022066",
+"end_ref_usfm": "LUK 22:66"
+},
+{
+"start_ref": "40002001",
+"start_ref_usfm": "MAT 2:1",
+"end_ref": "40002001",
+"end_ref_usfm": "MAT 2:1"
+},
+{
+"start_ref": "40006034",
+"start_ref_usfm": "MAT 6:34",
+"end_ref": "40006034",
+"end_ref_usfm": "MAT 6:34"
+},
+{
+"start_ref": "40007022",
+"start_ref_usfm": "MAT 7:22",
+"end_ref": "40007022",
+"end_ref_usfm": "MAT 7:22"
+},
+{
+"start_ref": "40009015",
+"start_ref_usfm": "MAT 9:15",
+"end_ref": "40009015",
+"end_ref_usfm": "MAT 9:15"
+},
+{
+"start_ref": "40016021",
+"start_ref_usfm": "MAT 16:21",
+"end_ref": "40016021",
+"end_ref_usfm": "MAT 16:21"
+},
+{
+"start_ref": "40028020",
+"start_ref_usfm": "MAT 28:20",
+"end_ref": "40028020",
+"end_ref_usfm": "MAT 28:20"
+},
+{
+"start_ref": "41002020",
+"start_ref_usfm": "MRK 2:20",
+"end_ref": "41002020",
+"end_ref_usfm": "MRK 2:20"
+},
+{
+"start_ref": "41006021",
+"start_ref_usfm": "MRK 6:21",
+"end_ref": "41006021",
+"end_ref_usfm": "MRK 6:21"
+},
+{
+"start_ref": "66001010",
+"start_ref_usfm": "REV 1:10",
+"end_ref": "66001010",
+"end_ref_usfm": "REV 1:10"
+},
+{
+"start_ref": "66004008",
+"start_ref_usfm": "REV 4:8",
+"end_ref": "66004008",
+"end_ref_usfm": "REV 4:8"
+},
+{
+"start_ref": "66021025",
+"start_ref_usfm": "REV 21:25",
+"end_ref": "66021025",
+"end_ref_usfm": "REV 21:25"
+},
+{
+"start_ref": "45008036",
+"start_ref_usfm": "ROM 8:36",
+"end_ref": "45008036",
+"end_ref_usfm": "ROM 8:36"
+},
+{
+"start_ref": "45010021",
+"start_ref_usfm": "ROM 10:21",
+"end_ref": "45010021",
+"end_ref_usfm": "ROM 10:21"
+},
+{
+"start_ref": "45013012",
+"start_ref_usfm": "ROM 13:12",
+"end_ref": "45013012",
+"end_ref_usfm": "ROM 13:12"
+},
+{
+"start_ref": "45013013",
+"start_ref_usfm": "ROM 13:13",
+"end_ref": "45013013",
+"end_ref_usfm": "ROM 13:13"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02408",
+"reference_id": "ASL02408",
+"version": "1.0.4",
+"title": "ἡμέτερος",
+"media_type": "Text",
+"index_reference": "ἡμέτερος",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡμέτερος</b>, <span class=\"greek\" lang=\"grc\">-α, -ον</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(<span class=\"greek\" lang=\"grc\">ἡμεῖς</span>)</span>, </span> <span class=\"as-gram\"><span class=\"as-pos\">poss. pron.</span> of <span class=\"as-subc\">first pers.</span>,</span></p> <div class=\"as-sense\"><i class=\"as-gloss\">our</i>: <data class=\"bible-ref\" data-start-ref=\"44002011\" data-end-ref=\"44002011\">Ac 2:11</data> <data class=\"bible-ref\" data-start-ref=\"44024006\" data-end-ref=\"44024006\">24:6</data> <data class=\"bible-ref\" data-start-ref=\"44026005\" data-end-ref=\"44026005\">26:5</data>, <data class=\"bible-ref\" data-start-ref=\"45015004\" data-end-ref=\"45015004\">Ro 15:4</data>, <data class=\"bible-ref\" data-start-ref=\"55004015\" data-end-ref=\"55004015\">II Ti 4:15</data>, <data class=\"bible-ref\" data-start-ref=\"62001003\" data-end-ref=\"62001003\">I Jo 1:3</data> <data class=\"bible-ref\" data-start-ref=\"62002002\" data-end-ref=\"62002002\">2:2</data>; <span class=\"greek\" lang=\"grc\">τὸ ἡ.</span>, <data class=\"bible-ref\" data-start-ref=\"42016012\" data-end-ref=\"42016012\">Lk 16:12</data>, WH, txt., R, mg. (<span class=\"greek\" lang=\"grc\">τὸ ὑμ.</span>, Rec., WH, mg., R, txt.); <span class=\"greek\" lang=\"grc\">οἱ ἡ.</span>, <i class=\"as-gloss\">our</i> (people), <data class=\"bible-ref\" data-start-ref=\"56003014\" data-end-ref=\"56003014\">Tit 3:14</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "62001003",
+"start_ref_usfm": "1JN 1:3",
+"end_ref": "62001003",
+"end_ref_usfm": "1JN 1:3"
+},
+{
+"start_ref": "62002002",
+"start_ref_usfm": "1JN 2:2",
+"end_ref": "62002002",
+"end_ref_usfm": "1JN 2:2"
+},
+{
+"start_ref": "55004015",
+"start_ref_usfm": "2TI 4:15",
+"end_ref": "55004015",
+"end_ref_usfm": "2TI 4:15"
+},
+{
+"start_ref": "44002011",
+"start_ref_usfm": "ACT 2:11",
+"end_ref": "44002011",
+"end_ref_usfm": "ACT 2:11"
+},
+{
+"start_ref": "44024006",
+"start_ref_usfm": "ACT 24:6",
+"end_ref": "44024006",
+"end_ref_usfm": "ACT 24:6"
+},
+{
+"start_ref": "44026005",
+"start_ref_usfm": "ACT 26:5",
+"end_ref": "44026005",
+"end_ref_usfm": "ACT 26:5"
+},
+{
+"start_ref": "42016012",
+"start_ref_usfm": "LUK 16:12",
+"end_ref": "42016012",
+"end_ref_usfm": "LUK 16:12"
+},
+{
+"start_ref": "45015004",
+"start_ref_usfm": "ROM 15:4",
+"end_ref": "45015004",
+"end_ref_usfm": "ROM 15:4"
+},
+{
+"start_ref": "56003014",
+"start_ref_usfm": "TIT 3:14",
+"end_ref": "56003014",
+"end_ref_usfm": "TIT 3:14"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02409",
+"reference_id": "ASL02409",
+"version": "1.0.4",
+"title": "ἦμήν",
+"media_type": "Text",
+"index_reference": "ἦμήν",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἦ μήν</b>, v.s. <span class=\"greek\" lang=\"grc\">ἦ</span>.</span></p> </div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02410",
+"reference_id": "ASL02410",
+"version": "1.0.4",
+"title": "ἡμιθανής",
+"media_type": "Text",
+"index_reference": "ἡμιθανής",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\">**† <b class=\"as-orth greek\" lang=\"grc\">ἡμιθανής</b>, <span class=\"greek\" lang=\"grc\">-ές</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(&lt; <span class=\"greek\" lang=\"grc\">ἥμι</span>, <i class=\"as-emph\">half</i> + <span class=\"greek\" lang=\"grc\">θνήσκω</span>),</span> <span class=\"as-lxx\">[in LXX: IV Mac 4:11*;]</span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">half-dead</i>: <data class=\"bible-ref\" data-start-ref=\"42010030\" data-end-ref=\"42010030\">Lk 10:30</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "81004011",
+"start_ref_usfm": "4MA 4:11",
+"end_ref": "81004011",
+"end_ref_usfm": "4MA 4:11"
+},
+{
+"start_ref": "42010030",
+"start_ref_usfm": "LUK 10:30",
+"end_ref": "42010030",
+"end_ref_usfm": "LUK 10:30"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02411",
+"reference_id": "ASL02411",
+"version": "1.0.4",
+"title": "ἥμισυς",
+"media_type": "Text",
+"index_reference": "ἥμισυς",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἥμισυς</b>, <span class=\"greek\" lang=\"grc\">-εια, -υ</span>, gen., <span class=\"greek\" lang=\"grc\">-ους</span> (late, as in <span class=\"greek\" lang=\"grc\">π.</span>, for cl., <span class=\"greek\" lang=\"grc\">-εος</span>; Bl., §8, 4; Mayser, 294), n. p1., <span class=\"greek\" lang=\"grc\">ἡμίσια</span> (Rec., cl., <span class=\"greek\" lang=\"grc\">-εια</span>),</span> <span class=\"as-etym\"> <span class=\"as-lxx\">[in LXX for <span class=\"hebrew\" lang=\"he\" data-strongs=\"H2677\">חֲצִי</span>, <span class=\"hebrew\" lang=\"he\" data-strongs=\"H4276\">מַחֲצִית</span>;] <i class=\"as-emph\">half</i>;</span> </span></p> <div class=\"as-sense\" data-n=\"1.\"><span class=\"as-sense-n\">1.</span> as adj., agreeing in gender and number with the substantive following, <span class=\"greek\" lang=\"grc\">τὰ ἡμίσια τ. ὑταρχόντων</span>, <data class=\"bible-ref\" data-start-ref=\"42019008\" data-end-ref=\"42019008\">Lk 19:8</data>.</div> <div class=\"as-sense\" data-n=\"2.\"><span class=\"as-sense-n\">2.</span> As neut. subst., <span class=\"greek\" lang=\"grc\">τὸ ἥμισυ</span>, <i class=\"as-gloss\">the half</i>; <span class=\"greek\" lang=\"grc\">ἥ.</span> (anarth.), <i class=\"as-gloss\">a half</i>: c. gen., <span class=\"greek\" lang=\"grc\">ἥ. καιροῦ</span>, <data class=\"bible-ref\" data-start-ref=\"66012014\" data-end-ref=\"66012014\">Re 12:14</data>; <span class=\"greek\" lang=\"grc\">ἕως ἡμίσους τ. βασιλείας μου</span>, <data class=\"bible-ref\" data-start-ref=\"41006023\" data-end-ref=\"41006023\">Mk 6:23</data>; after a cardinal number, <span class=\"greek\" lang=\"grc\">ἡμέρας τρεῖς κ. ἥμισυ</span>, <data class=\"bible-ref\" data-start-ref=\"66011009\" data-end-ref=\"66011009\">Re 11:9</data>, <data class=\"bible-ref\" data-start-ref=\"66011011\" data-end-ref=\"66011011\">11</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "42019008",
+"start_ref_usfm": "LUK 19:8",
+"end_ref": "42019008",
+"end_ref_usfm": "LUK 19:8"
+},
+{
+"start_ref": "41006023",
+"start_ref_usfm": "MRK 6:23",
+"end_ref": "41006023",
+"end_ref_usfm": "MRK 6:23"
+},
+{
+"start_ref": "66011009",
+"start_ref_usfm": "REV 11:9",
+"end_ref": "66011009",
+"end_ref_usfm": "REV 11:9"
+},
+{
+"start_ref": "66011011",
+"start_ref_usfm": "REV 11:11",
+"end_ref": "66011011",
+"end_ref_usfm": "REV 11:11"
+},
+{
+"start_ref": "66012014",
+"start_ref_usfm": "REV 12:14",
+"end_ref": "66012014",
+"end_ref_usfm": "REV 12:14"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02412",
+"reference_id": "ASL02412",
+"version": "1.0.4",
+"title": "ἡμίωρον",
+"media_type": "Text",
+"index_reference": "ἡμίωρον",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\">*† <b class=\"as-orth greek\" lang=\"grc\">ἡμίωρον</b> (Rec. <span class=\"greek\" lang=\"grc\">-ιον</span>), <span class=\"greek\" lang=\"grc\">-ου, τό</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(<span class=\"greek\" lang=\"grc\">ἥμι</span>, <i class=\"as-emph\">half</i> + <span class=\"greek\" lang=\"grc\">ὥρα</span>),</span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">half an hour</i>: <data class=\"bible-ref\" data-start-ref=\"66008001\" data-end-ref=\"66008001\">Re 8:1</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "66008001",
+"start_ref_usfm": "REV 8:1",
+"end_ref": "66008001",
+"end_ref_usfm": "REV 8:1"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02413",
+"reference_id": "ASL02413",
+"version": "1.0.4",
+"title": "ἡνίκα",
+"media_type": "Text",
+"index_reference": "ἡνίκα",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡνίκα</b>,</span> <span class=\"as-gram\"><span class=\"as-pos\">rel. adv.</span> of <span class=\"as-subc\">time</span>,</span></p> <div class=\"as-sense\"><i class=\"as-gloss\">at which time</i>, <i class=\"as-gloss\">when</i>; seq. <span class=\"greek\" lang=\"grc\">ἂν</span>, c. subjc., <i class=\"as-gloss\">whensoever</i>: <data class=\"bible-ref\" data-start-ref=\"47003015\" data-end-ref=\"47003015\">II Co 3:15</data>, <data class=\"bible-ref\" data-start-ref=\"47003016\" data-end-ref=\"47003016\">16</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "47003015",
+"start_ref_usfm": "2CO 3:15",
+"end_ref": "47003015",
+"end_ref_usfm": "2CO 3:15"
+},
+{
+"start_ref": "47003016",
+"start_ref_usfm": "2CO 3:16",
+"end_ref": "47003016",
+"end_ref_usfm": "2CO 3:16"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02414",
+"reference_id": "ASL02414",
+"version": "1.0.4",
+"title": "ἤπερ",
+"media_type": "Text",
+"index_reference": "ἤπερ",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἤπερ</b>, v.s. <span class=\"greek\" lang=\"grc\">ἤ</span>.</span></p> </div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02415",
+"reference_id": "ASL02415",
+"version": "1.0.4",
+"title": "ἤπιος",
+"media_type": "Text",
+"index_reference": "ἤπιος",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\">* <b class=\"as-orth greek\" lang=\"grc\">ἤπιος</b>, <span class=\"greek\" lang=\"grc\">-α, -ον</span>,</span></p> <div class=\"as-sense\"><i class=\"as-gloss\">mild</i>, <i class=\"as-gloss\">gentle</i>: <data class=\"bible-ref\" data-start-ref=\"52002007\" data-end-ref=\"52002007\">I Th 2:7</data> (WH, R, mg., <span class=\"greek\" lang=\"grc\">νήπιος</span>); seq. <span class=\"greek\" lang=\"grc\">πρός</span>, <data class=\"bible-ref\" data-start-ref=\"55002024\" data-end-ref=\"55002024\">II Ti 2:24</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "52002007",
+"start_ref_usfm": "1TH 2:7",
+"end_ref": "52002007",
+"end_ref_usfm": "1TH 2:7"
+},
+{
+"start_ref": "55002024",
+"start_ref_usfm": "2TI 2:24",
+"end_ref": "55002024",
+"end_ref_usfm": "2TI 2:24"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02416",
+"reference_id": "ASL02416",
+"version": "1.0.4",
+"title": "Ἤρ",
+"media_type": "Text",
+"index_reference": "ἤρ",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">Ἤρ</b> (L, <span class=\"greek\" lang=\"grc\">Ἥρ</span>), <span class=\"greek\" lang=\"grc\">ὁ</span>, indecl. (Heb. <span class=\"hebrew\" lang=\"he\" data-strongs=\"H6147\">עֵר</span>), </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">Er</i>, an ancestor of Jesus: <data class=\"bible-ref\" data-start-ref=\"42003028\" data-end-ref=\"42003028\">Lk 3:28</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "42003028",
+"start_ref_usfm": "LUK 3:28",
+"end_ref": "42003028",
+"end_ref_usfm": "LUK 3:28"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02417",
+"reference_id": "ASL02417",
+"version": "1.0.4",
+"title": "ἤρεμος",
+"media_type": "Text",
+"index_reference": "ἤρεμος",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\">**† <b class=\"as-orth greek\" lang=\"grc\">ἤρεμος</b>, <span class=\"greek\" lang=\"grc\">-ον</span>,</span> <span class=\"as-etym\"> <span class=\"as-lxx\">[in LXX: <data class=\"bible-ref\" data-start-ref=\"15003013\" data-end-ref=\"15003013\">Es 3:13</data> A*;]</span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">quiet</i>, <i class=\"as-gloss\">tranquil</i> (Luc., al.): <data class=\"bible-ref\" data-start-ref=\"54002002\" data-end-ref=\"54002002\">I Ti 2:2</data>.†</div> <div class=\"as-re\"><i class=\"as-emph\">SYN</i>: <span class=\"greek\" lang=\"grc\" data-strongs=\"G2272\">ἡσύχιος</span>, q.v.</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "54002002",
+"start_ref_usfm": "1TI 2:2",
+"end_ref": "54002002",
+"end_ref_usfm": "1TI 2:2"
+},
+{
+"start_ref": "15003013",
+"start_ref_usfm": "EZR 3:13",
+"end_ref": "15003013",
+"end_ref_usfm": "EZR 3:13"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02418",
+"reference_id": "ASL02418",
+"version": "1.0.4",
+"title": "Ἡρῴδης",
+"media_type": "Text",
+"index_reference": "ἡρῴδης",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">Ἡρῴδης</b> (Rec. <span class=\"greek\" lang=\"grc\">-ώδης</span>), <span class=\"greek\" lang=\"grc\">-ου, ὁ</span>,</span></p> <div class=\"as-sense\"><i class=\"as-gloss\">Herod</i>; <div class=\"as-sense\" data-n=\"1.\"><span class=\"as-sense-n\">1.</span> <i class=\"as-gloss\">Herod the Great</i>: <data class=\"bible-ref\" data-start-ref=\"40002001\" data-end-ref=\"40002023\">Mt 2</data>, <data class=\"bible-ref\" data-start-ref=\"44023035\" data-end-ref=\"44023035\">Ac 23:35</data>.</div> <div class=\"as-sense\" data-n=\"2.\"><span class=\"as-sense-n\">2.</span> <i class=\"as-gloss\">Herod Antipas</i> (<span class=\"greek\" lang=\"grc\">ὁ τετραάρχης</span>, <data class=\"bible-ref\" data-start-ref=\"40014001\" data-end-ref=\"40014001\">Mt 14:1</data>): <data class=\"bible-ref\" data-start-ref=\"40014001\" data-end-ref=\"40014001\">Mt 14:1</data>, <data class=\"bible-ref\" data-start-ref=\"40014003\" data-end-ref=\"40014003\">3</data>, <data class=\"bible-ref\" data-start-ref=\"40014006\" data-end-ref=\"40014006\">6</data>, <data class=\"bible-ref\" data-start-ref=\"41006001\" data-end-ref=\"41006056\">Mk 6</data> <data class=\"bible-ref\" data-start-ref=\"41008015\" data-end-ref=\"41008015\">8:15</data>, <data class=\"bible-ref\" data-start-ref=\"42001005\" data-end-ref=\"42001005\">Lk 1:5</data> <data class=\"bible-ref\" data-start-ref=\"42003001\" data-end-ref=\"42003001\">3:1</data>, <data class=\"bible-ref\" data-start-ref=\"42003019\" data-end-ref=\"42003019\">19</data> <data class=\"bible-ref\" data-start-ref=\"42008003\" data-end-ref=\"42008003\">8:3</data> <data class=\"bible-ref\" data-start-ref=\"42009007\" data-end-ref=\"42009007\">9:7</data>, <data class=\"bible-ref\" data-start-ref=\"42009009\" data-end-ref=\"42009009\">9</data> <data class=\"bible-ref\" data-start-ref=\"42013031\" data-end-ref=\"42013031\">13:31</data> <data class=\"bible-ref\" data-start-ref=\"42023001\" data-end-ref=\"42023056\">23</data>, <data class=\"bible-ref\" data-start-ref=\"44004027\" data-end-ref=\"44004027\">Ac 4:27</data> <data class=\"bible-ref\" data-start-ref=\"44013001\" data-end-ref=\"44013001\">13:1</data>.</div> <div class=\"as-sense\" data-n=\"3.\"><span class=\"as-sense-n\">3.</span> <i class=\"as-gloss\">Herod Agrippa I</i>: <data class=\"bible-ref\" data-start-ref=\"44012001\" data-end-ref=\"44012001\">Ac 12:1</data>, <data class=\"bible-ref\" data-start-ref=\"44012006\" data-end-ref=\"44012006\">6</data>, <data class=\"bible-ref\" data-start-ref=\"44012011\" data-end-ref=\"44012011\">11</data>, <data class=\"bible-ref\" data-start-ref=\"44012019\" data-end-ref=\"44012019\">19</data>, <data class=\"bible-ref\" data-start-ref=\"44012021\" data-end-ref=\"44012021\">21</data> (cf. <span class=\"greek\" lang=\"grc\">Ἀγρίππας</span> (II)).†</div></div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "44004027",
+"start_ref_usfm": "ACT 4:27",
+"end_ref": "44004027",
+"end_ref_usfm": "ACT 4:27"
+},
+{
+"start_ref": "44012001",
+"start_ref_usfm": "ACT 12:1",
+"end_ref": "44012001",
+"end_ref_usfm": "ACT 12:1"
+},
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012006",
+"end_ref_usfm": "ACT 12:6"
+},
+{
+"start_ref": "44012011",
+"start_ref_usfm": "ACT 12:11",
+"end_ref": "44012011",
+"end_ref_usfm": "ACT 12:11"
+},
+{
+"start_ref": "44012019",
+"start_ref_usfm": "ACT 12:19",
+"end_ref": "44012019",
+"end_ref_usfm": "ACT 12:19"
+},
+{
+"start_ref": "44012021",
+"start_ref_usfm": "ACT 12:21",
+"end_ref": "44012021",
+"end_ref_usfm": "ACT 12:21"
+},
+{
+"start_ref": "44013001",
+"start_ref_usfm": "ACT 13:1",
+"end_ref": "44013001",
+"end_ref_usfm": "ACT 13:1"
+},
+{
+"start_ref": "44023035",
+"start_ref_usfm": "ACT 23:35",
+"end_ref": "44023035",
+"end_ref_usfm": "ACT 23:35"
+},
+{
+"start_ref": "42001005",
+"start_ref_usfm": "LUK 1:5",
+"end_ref": "42001005",
+"end_ref_usfm": "LUK 1:5"
+},
+{
+"start_ref": "42003001",
+"start_ref_usfm": "LUK 3:1",
+"end_ref": "42003001",
+"end_ref_usfm": "LUK 3:1"
+},
+{
+"start_ref": "42003019",
+"start_ref_usfm": "LUK 3:19",
+"end_ref": "42003019",
+"end_ref_usfm": "LUK 3:19"
+},
+{
+"start_ref": "42008003",
+"start_ref_usfm": "LUK 8:3",
+"end_ref": "42008003",
+"end_ref_usfm": "LUK 8:3"
+},
+{
+"start_ref": "42009007",
+"start_ref_usfm": "LUK 9:7",
+"end_ref": "42009007",
+"end_ref_usfm": "LUK 9:7"
+},
+{
+"start_ref": "42009009",
+"start_ref_usfm": "LUK 9:9",
+"end_ref": "42009009",
+"end_ref_usfm": "LUK 9:9"
+},
+{
+"start_ref": "42013031",
+"start_ref_usfm": "LUK 13:31",
+"end_ref": "42013031",
+"end_ref_usfm": "LUK 13:31"
+},
+{
+"start_ref": "42023001",
+"start_ref_usfm": "LUK 23:1",
+"end_ref": "42023056",
+"end_ref_usfm": "LUK 23:56"
+},
+{
+"start_ref": "40002001",
+"start_ref_usfm": "MAT 2:1",
+"end_ref": "40002023",
+"end_ref_usfm": "MAT 2:23"
+},
+{
+"start_ref": "40014001",
+"start_ref_usfm": "MAT 14:1",
+"end_ref": "40014001",
+"end_ref_usfm": "MAT 14:1"
+},
+{
+"start_ref": "40014003",
+"start_ref_usfm": "MAT 14:3",
+"end_ref": "40014003",
+"end_ref_usfm": "MAT 14:3"
+},
+{
+"start_ref": "40014006",
+"start_ref_usfm": "MAT 14:6",
+"end_ref": "40014006",
+"end_ref_usfm": "MAT 14:6"
+},
+{
+"start_ref": "41006001",
+"start_ref_usfm": "MRK 6:1",
+"end_ref": "41006056",
+"end_ref_usfm": "MRK 6:56"
+},
+{
+"start_ref": "41008015",
+"start_ref_usfm": "MRK 8:15",
+"end_ref": "41008015",
+"end_ref_usfm": "MRK 8:15"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02419",
+"reference_id": "ASL02419",
+"version": "1.0.4",
+"title": "Ἡρῳδιανοί",
+"media_type": "Text",
+"index_reference": "ἡρῳδιανοί",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">Ἡρῳδιανοί</b> (Rec. <span class=\"greek\" lang=\"grc\">Ἡρω-</span>), <span class=\"greek\" lang=\"grc\">-ῶν, οἱ</span>,</span></p> <div class=\"as-sense\"><i class=\"as-gloss\">Herodians</i>, partisans of Herod (cf. <span class=\"greek\" lang=\"grc\">τὸυς τὰ Ἡρῴδου φρονοῦντας</span>, FlJ, <i class=\"as-emph\">Ant.</i>, xiv, 15, 10): <data class=\"bible-ref\" data-start-ref=\"40022016\" data-end-ref=\"40022016\">Mt 22:16</data>, <data class=\"bible-ref\" data-start-ref=\"41003006\" data-end-ref=\"41003006\">Mk 3:6</data> <data class=\"bible-ref\" data-start-ref=\"41012013\" data-end-ref=\"41012013\">12:13</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "40022016",
+"start_ref_usfm": "MAT 22:16",
+"end_ref": "40022016",
+"end_ref_usfm": "MAT 22:16"
+},
+{
+"start_ref": "41003006",
+"start_ref_usfm": "MRK 3:6",
+"end_ref": "41003006",
+"end_ref_usfm": "MRK 3:6"
+},
+{
+"start_ref": "41012013",
+"start_ref_usfm": "MRK 12:13",
+"end_ref": "41012013",
+"end_ref_usfm": "MRK 12:13"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02420",
+"reference_id": "ASL02420",
+"version": "1.0.4",
+"title": "Ἡρῳδιάς",
+"media_type": "Text",
+"index_reference": "ἡρῳδιάς",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">Ἡρῳδιάς</b> (Rec. <span class=\"greek\" lang=\"grc\">Ἡρω-</span>), <span class=\"greek\" lang=\"grc\">-άδος, ἡ</span>,</span></p> <div class=\"as-sense\"><i class=\"as-gloss\">Herodias</i>, granddaughter of Herod the Great: <data class=\"bible-ref\" data-start-ref=\"40014003\" data-end-ref=\"40014003\">Mt 14:3</data>, <data class=\"bible-ref\" data-start-ref=\"40014006\" data-end-ref=\"40014006\">6</data>, <data class=\"bible-ref\" data-start-ref=\"41006017\" data-end-ref=\"41006017\">Mk 6:17</data>, <data class=\"bible-ref\" data-start-ref=\"41006019\" data-end-ref=\"41006019\">19</data>, <data class=\"bible-ref\" data-start-ref=\"41006022\" data-end-ref=\"41006022\">22</data>, <data class=\"bible-ref\" data-start-ref=\"42003019\" data-end-ref=\"42003019\">Lk 3:19</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "42003019",
+"start_ref_usfm": "LUK 3:19",
+"end_ref": "42003019",
+"end_ref_usfm": "LUK 3:19"
+},
+{
+"start_ref": "40014003",
+"start_ref_usfm": "MAT 14:3",
+"end_ref": "40014003",
+"end_ref_usfm": "MAT 14:3"
+},
+{
+"start_ref": "40014006",
+"start_ref_usfm": "MAT 14:6",
+"end_ref": "40014006",
+"end_ref_usfm": "MAT 14:6"
+},
+{
+"start_ref": "41006017",
+"start_ref_usfm": "MRK 6:17",
+"end_ref": "41006017",
+"end_ref_usfm": "MRK 6:17"
+},
+{
+"start_ref": "41006019",
+"start_ref_usfm": "MRK 6:19",
+"end_ref": "41006019",
+"end_ref_usfm": "MRK 6:19"
+},
+{
+"start_ref": "41006022",
+"start_ref_usfm": "MRK 6:22",
+"end_ref": "41006022",
+"end_ref_usfm": "MRK 6:22"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02421",
+"reference_id": "ASL02421",
+"version": "1.0.4",
+"title": "Ἡρῳδίων",
+"media_type": "Text",
+"index_reference": "ἡρῳδίων",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">Ἡρῳδίων</b> (Rec. <span class=\"greek\" lang=\"grc\">Ἡρω-</span>), <span class=\"greek\" lang=\"grc\">-ωνος, ὁ</span>,</span></p> <div class=\"as-sense\"><i class=\"as-gloss\">Herodion</i>: <data class=\"bible-ref\" data-start-ref=\"45016011\" data-end-ref=\"45016011\">Ro 16:11</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "45016011",
+"start_ref_usfm": "ROM 16:11",
+"end_ref": "45016011",
+"end_ref_usfm": "ROM 16:11"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02422",
+"reference_id": "ASL02422",
+"version": "1.0.4",
+"title": "Ἠσαίας",
+"media_type": "Text",
+"index_reference": "ἠσαίας",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"200\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">Ἠσαίας</b> (Rec. <span class=\"greek\" lang=\"grc\">Ἠσαΐας</span>), <span class=\"greek\" lang=\"grc\">-ου, ο</span> (Heb. <span class=\"hebrew\" lang=\"he\" data-strongs=\"H3470\">יְשַׁעְיָהוּ</span>),</span></p> <div class=\"as-sense\"><i class=\"as-gloss\">Isaiah</i>, the prophet: <data class=\"bible-ref\" data-start-ref=\"40003003\" data-end-ref=\"40003003\">Mt 3:3</data> <data class=\"bible-ref\" data-start-ref=\"40004014\" data-end-ref=\"40004014\">4:14</data> <data class=\"bible-ref\" data-start-ref=\"40008017\" data-end-ref=\"40008017\">8:17</data> <data class=\"bible-ref\" data-start-ref=\"40012017\" data-end-ref=\"40012017\">12:17</data> <data class=\"bible-ref\" data-start-ref=\"40013014\" data-end-ref=\"40013014\">13:14</data>, <data class=\"bible-ref\" data-start-ref=\"40013035\" data-end-ref=\"40013035\">35</data> <data class=\"bible-ref\" data-start-ref=\"40015007\" data-end-ref=\"40015007\">15:7</data>, <data class=\"bible-ref\" data-start-ref=\"41007006\" data-end-ref=\"41007006\">Mk 7:6</data>, <data class=\"bible-ref\" data-start-ref=\"42003004\" data-end-ref=\"42003004\">Lk 3:4</data> <data class=\"bible-ref\" data-start-ref=\"42004017\" data-end-ref=\"42004017\">4:17</data>, <data class=\"bible-ref\" data-start-ref=\"43001023\" data-end-ref=\"43001023\">Jo 1:23</data> <data class=\"bible-ref\" data-start-ref=\"43012038\" data-end-ref=\"43012038\">12:38</data>, <data class=\"bible-ref\" data-start-ref=\"43012039\" data-end-ref=\"43012039\">39</data>, <data class=\"bible-ref\" data-start-ref=\"43012041\" data-end-ref=\"43012041\">41</data>, <data class=\"bible-ref\" data-start-ref=\"44008028\" data-end-ref=\"44008028\">Ac 8:28</data> <data class=\"bible-ref\" data-start-ref=\"44028025\" data-end-ref=\"44028025\">28:25</data>, <data class=\"bible-ref\" data-start-ref=\"45009027\" data-end-ref=\"45009027\">Ro 9:27</data>, <data class=\"bible-ref\" data-start-ref=\"45009029\" data-end-ref=\"45009029\">29</data> <data class=\"bible-ref\" data-start-ref=\"45010016\" data-end-ref=\"45010016\">10:16</data>, <data class=\"bible-ref\" data-start-ref=\"45010020\" data-end-ref=\"45010020\">20</data> <data class=\"bible-ref\" data-start-ref=\"45015012\" data-end-ref=\"45015012\">15:12</data>; <span class=\"greek\" lang=\"grc\">ἀνεγίνωσκεν τ. προφήτην Ἠ.</span>, <data class=\"bible-ref\" data-start-ref=\"44008030\" data-end-ref=\"44008030\">Ac 8:30</data>; <span class=\"greek\" lang=\"grc\">ἐν τ. Ἠ.</span>, <data class=\"bible-ref\" data-start-ref=\"41001002\" data-end-ref=\"41001002\">Mk 1:2</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "44008028",
+"start_ref_usfm": "ACT 8:28",
+"end_ref": "44008028",
+"end_ref_usfm": "ACT 8:28"
+},
+{
+"start_ref": "44008030",
+"start_ref_usfm": "ACT 8:30",
+"end_ref": "44008030",
+"end_ref_usfm": "ACT 8:30"
+},
+{
+"start_ref": "44028025",
+"start_ref_usfm": "ACT 28:25",
+"end_ref": "44028025",
+"end_ref_usfm": "ACT 28:25"
+},
+{
+"start_ref": "43001023",
+"start_ref_usfm": "JHN 1:23",
+"end_ref": "43001023",
+"end_ref_usfm": "JHN 1:23"
+},
+{
+"start_ref": "43012038",
+"start_ref_usfm": "JHN 12:38",
+"end_ref": "43012038",
+"end_ref_usfm": "JHN 12:38"
+},
+{
+"start_ref": "43012039",
+"start_ref_usfm": "JHN 12:39",
+"end_ref": "43012039",
+"end_ref_usfm": "JHN 12:39"
+},
+{
+"start_ref": "43012041",
+"start_ref_usfm": "JHN 12:41",
+"end_ref": "43012041",
+"end_ref_usfm": "JHN 12:41"
+},
+{
+"start_ref": "42003004",
+"start_ref_usfm": "LUK 3:4",
+"end_ref": "42003004",
+"end_ref_usfm": "LUK 3:4"
+},
+{
+"start_ref": "42004017",
+"start_ref_usfm": "LUK 4:17",
+"end_ref": "42004017",
+"end_ref_usfm": "LUK 4:17"
+},
+{
+"start_ref": "40003003",
+"start_ref_usfm": "MAT 3:3",
+"end_ref": "40003003",
+"end_ref_usfm": "MAT 3:3"
+},
+{
+"start_ref": "40004014",
+"start_ref_usfm": "MAT 4:14",
+"end_ref": "40004014",
+"end_ref_usfm": "MAT 4:14"
+},
+{
+"start_ref": "40008017",
+"start_ref_usfm": "MAT 8:17",
+"end_ref": "40008017",
+"end_ref_usfm": "MAT 8:17"
+},
+{
+"start_ref": "40012017",
+"start_ref_usfm": "MAT 12:17",
+"end_ref": "40012017",
+"end_ref_usfm": "MAT 12:17"
+},
+{
+"start_ref": "40013014",
+"start_ref_usfm": "MAT 13:14",
+"end_ref": "40013014",
+"end_ref_usfm": "MAT 13:14"
+},
+{
+"start_ref": "40013035",
+"start_ref_usfm": "MAT 13:35",
+"end_ref": "40013035",
+"end_ref_usfm": "MAT 13:35"
+},
+{
+"start_ref": "40015007",
+"start_ref_usfm": "MAT 15:7",
+"end_ref": "40015007",
+"end_ref_usfm": "MAT 15:7"
+},
+{
+"start_ref": "41001002",
+"start_ref_usfm": "MRK 1:2",
+"end_ref": "41001002",
+"end_ref_usfm": "MRK 1:2"
+},
+{
+"start_ref": "41007006",
+"start_ref_usfm": "MRK 7:6",
+"end_ref": "41007006",
+"end_ref_usfm": "MRK 7:6"
+},
+{
+"start_ref": "45009027",
+"start_ref_usfm": "ROM 9:27",
+"end_ref": "45009027",
+"end_ref_usfm": "ROM 9:27"
+},
+{
+"start_ref": "45009029",
+"start_ref_usfm": "ROM 9:29",
+"end_ref": "45009029",
+"end_ref_usfm": "ROM 9:29"
+},
+{
+"start_ref": "45010016",
+"start_ref_usfm": "ROM 10:16",
+"end_ref": "45010016",
+"end_ref_usfm": "ROM 10:16"
+},
+{
+"start_ref": "45010020",
+"start_ref_usfm": "ROM 10:20",
+"end_ref": "45010020",
+"end_ref_usfm": "ROM 10:20"
+},
+{
+"start_ref": "45015012",
+"start_ref_usfm": "ROM 15:12",
+"end_ref": "45015012",
+"end_ref_usfm": "ROM 15:12"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.8457,
+"match_method": "embedding",
+"preferred_label": "Isaiah"
+}
+]
+}
+},
+{
+"content_id": "ASL02423",
+"reference_id": "ASL02423",
+"version": "1.0.4",
+"title": "Ἠσαῦ",
+"media_type": "Text",
+"index_reference": "ἠσαῦ",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"201\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">Ἠσαῦ</b>, <span class=\"greek\" lang=\"grc\">ὁ</span>,</span> <span class=\"as-etym\"> <span class=\"as-derivation\">indecl. (Heb. <span class=\"hebrew\" lang=\"he\" data-strongs=\"H6215\">עֵשָׂו</span>, <data class=\"bible-ref\" data-start-ref=\"01025025\" data-end-ref=\"01025025\">Ge 25:25</data>),</span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">Esau</i>: <data class=\"bible-ref\" data-start-ref=\"45009013\" data-end-ref=\"45009013\">Ro 9:13</data><sup>(LXX)</sup>, <data class=\"bible-ref\" data-start-ref=\"58011020\" data-end-ref=\"58011020\">He 11:20</data> <data class=\"bible-ref\" data-start-ref=\"58012016\" data-end-ref=\"58012016\">12:16</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01025025",
+"start_ref_usfm": "GEN 25:25",
+"end_ref": "01025025",
+"end_ref_usfm": "GEN 25:25"
+},
+{
+"start_ref": "58011020",
+"start_ref_usfm": "HEB 11:20",
+"end_ref": "58011020",
+"end_ref_usfm": "HEB 11:20"
+},
+{
+"start_ref": "58012016",
+"start_ref_usfm": "HEB 12:16",
+"end_ref": "58012016",
+"end_ref_usfm": "HEB 12:16"
+},
+{
+"start_ref": "45009013",
+"start_ref_usfm": "ROM 9:13",
+"end_ref": "45009013",
+"end_ref_usfm": "ROM 9:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.8228,
+"match_method": "embedding",
+"preferred_label": "Esau"
+}
+]
+}
+},
+{
+"content_id": "ASL02424",
+"reference_id": "ASL02424",
+"version": "1.0.4",
+"title": "ἡσσάομαι",
+"media_type": "Text",
+"index_reference": "ἡσσάομαι",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"201\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡσσάομαι</b>, v.s. <span class=\"greek\" lang=\"grc\">ἡττάω</span>.</span></p> </div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02425",
+"reference_id": "ASL02425",
+"version": "1.0.4",
+"title": "ἥσσων",
+"media_type": "Text",
+"index_reference": "ἥσσων",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"201\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἥσσων</b> (Rec. <span class=\"greek\" lang=\"grc\">ἥττ-</span>, the Attic literary form), <span class=\"greek\" lang=\"grc\">ἧσσον</span>,</span></p> <div class=\"as-sense\"><i class=\"as-gloss\">inferior</i>, <i class=\"as-gloss\">less</i>; neut., <span class=\"greek\" lang=\"grc\">τὸ ἧ.</span>, adverbially, <i class=\"as-gloss\">less</i>: <data class=\"bible-ref\" data-start-ref=\"47012015\" data-end-ref=\"47012015\">II Co 12:15</data>; <span class=\"greek\" lang=\"grc\">εἰς τὸ ἧ.</span>, <i class=\"as-gloss\">for the worse</i> (opp. to <span class=\"greek\" lang=\"grc\">κρεῖττον</span>): <data class=\"bible-ref\" data-start-ref=\"46011017\" data-end-ref=\"46011017\">I Co 11:17</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "46011017",
+"start_ref_usfm": "1CO 11:17",
+"end_ref": "46011017",
+"end_ref_usfm": "1CO 11:17"
+},
+{
+"start_ref": "47012015",
+"start_ref_usfm": "2CO 12:15",
+"end_ref": "47012015",
+"end_ref_usfm": "2CO 12:15"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02426",
+"reference_id": "ASL02426",
+"version": "1.0.4",
+"title": "ἡσυχάζω",
+"media_type": "Text",
+"index_reference": "ἡσυχάζω",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"201\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡσυχάζω</b></span> <span class=\"as-etym\"> <span class=\"as-lxx\">[in LXX chiefly for <span class=\"hebrew\" lang=\"he\" data-strongs=\"H8252\">שׁקט</span>;] </span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">to be still</i>; <div class=\"as-sense\" data-n=\"(a)\"><span class=\"as-sense-n\">(a)</span> <i class=\"as-gloss\">to rest from labour</i>: <data class=\"bible-ref\" data-start-ref=\"42023056\" data-end-ref=\"42023056\">Lk 23:56</data>;</div> <div class=\"as-sense\" data-n=\"(b)\"><span class=\"as-sense-n\">(b)</span> <i class=\"as-gloss\">to live quietly</i>: <data class=\"bible-ref\" data-start-ref=\"52004011\" data-end-ref=\"52004011\">I Th 4:11</data>;</div> <div class=\"as-sense\" data-n=\"(c)\"><span class=\"as-sense-n\">(c)</span> <i class=\"as-gloss\">to be silent</i>: <data class=\"bible-ref\" data-start-ref=\"42014003\" data-end-ref=\"42014003\">Lk 14:3</data>, <data class=\"bible-ref\" data-start-ref=\"44011018\" data-end-ref=\"44011018\">Ac 11:18</data> <data class=\"bible-ref\" data-start-ref=\"44021014\" data-end-ref=\"44021014\">21:14</data> (cf. <data class=\"bible-ref\" data-start-ref=\"18032007\" data-end-ref=\"18032007\">Jb 32:7</data>, <data class=\"bible-ref\" data-start-ref=\"16005008\" data-end-ref=\"16005008\">Ne 5:8</data>).†</div></div> <div class=\"as-re\"><i class=\"as-emph\">SYN.</i>: <span class=\"greek\" lang=\"grc\">σιγάω</span> (q.v.), <span class=\"greek\" lang=\"grc\">σιωπάω</span>.</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "52004011",
+"start_ref_usfm": "1TH 4:11",
+"end_ref": "52004011",
+"end_ref_usfm": "1TH 4:11"
+},
+{
+"start_ref": "44011018",
+"start_ref_usfm": "ACT 11:18",
+"end_ref": "44011018",
+"end_ref_usfm": "ACT 11:18"
+},
+{
+"start_ref": "44021014",
+"start_ref_usfm": "ACT 21:14",
+"end_ref": "44021014",
+"end_ref_usfm": "ACT 21:14"
+},
+{
+"start_ref": "18032007",
+"start_ref_usfm": "JOB 32:7",
+"end_ref": "18032007",
+"end_ref_usfm": "JOB 32:7"
+},
+{
+"start_ref": "42014003",
+"start_ref_usfm": "LUK 14:3",
+"end_ref": "42014003",
+"end_ref_usfm": "LUK 14:3"
+},
+{
+"start_ref": "42023056",
+"start_ref_usfm": "LUK 23:56",
+"end_ref": "42023056",
+"end_ref_usfm": "LUK 23:56"
+},
+{
+"start_ref": "16005008",
+"start_ref_usfm": "NEH 5:8",
+"end_ref": "16005008",
+"end_ref_usfm": "NEH 5:8"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02427",
+"reference_id": "ASL02427",
+"version": "1.0.4",
+"title": "ἡσυχία",
+"media_type": "Text",
+"index_reference": "ἡσυχία",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"201\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡσυχία</b>, <span class=\"greek\" lang=\"grc\">-ας, ἡ</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(&lt; <span class=\"greek\" lang=\"grc\">ἡσύχιος</span>, q.v.),</span> <span class=\"as-lxx\">[in LXX for <span class=\"hebrew\" lang=\"he\" data-strongs=\"H380\">אִישׁוֹן</span>, <span class=\"hebrew\" lang=\"he\" data-strongs=\"H7961\">שָׁלֶו</span>, etc.;]</span> </span></p> <div class=\"as-sense\" data-n=\"1.\"><span class=\"as-sense-n\">1.</span> <i class=\"as-gloss\">quietness</i>: <data class=\"bible-ref\" data-start-ref=\"53003012\" data-end-ref=\"53003012\">II Th 3:12</data>.</div> <div class=\"as-sense\" data-n=\"2.\"><span class=\"as-sense-n\">2.</span> <i class=\"as-gloss\">stillness</i>, <i class=\"as-gloss\">silence</i>: <data class=\"bible-ref\" data-start-ref=\"44022002\" data-end-ref=\"44022002\">Ac 22:2</data>, <data class=\"bible-ref\" data-start-ref=\"54002011\" data-end-ref=\"54002011\">I Ti 2:11</data>, <data class=\"bible-ref\" data-start-ref=\"54002012\" data-end-ref=\"54002012\">12</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "54002011",
+"start_ref_usfm": "1TI 2:11",
+"end_ref": "54002011",
+"end_ref_usfm": "1TI 2:11"
+},
+{
+"start_ref": "54002012",
+"start_ref_usfm": "1TI 2:12",
+"end_ref": "54002012",
+"end_ref_usfm": "1TI 2:12"
+},
+{
+"start_ref": "53003012",
+"start_ref_usfm": "2TH 3:12",
+"end_ref": "53003012",
+"end_ref_usfm": "2TH 3:12"
+},
+{
+"start_ref": "44022002",
+"start_ref_usfm": "ACT 22:2",
+"end_ref": "44022002",
+"end_ref_usfm": "ACT 22:2"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02428",
+"reference_id": "ASL02428",
+"version": "1.0.4",
+"title": "ἡσύχιος",
+"media_type": "Text",
+"index_reference": "ἡσύχιος",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"201\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡσύχιος</b>, <span class=\"greek\" lang=\"grc\">-α, -ον</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(= the more freq. <span class=\"greek\" lang=\"grc\">ἥσυχος</span>; cf. Wi 18:14, Si 25:20),</span> <span class=\"as-lxx\">[in LXX: <data class=\"bible-ref\" data-start-ref=\"23066002\" data-end-ref=\"23066002\">Is 66:2</data> (<span class=\"hebrew\" lang=\"he\" data-strongs=\"H5223\">נְכֵה־רוּחַ</span>)*;]</span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">quiet</i>, <i class=\"as-gloss\">tranquil</i>: <data class=\"bible-ref\" data-start-ref=\"54002002\" data-end-ref=\"54002002\">I Ti 2:2</data>, <data class=\"bible-ref\" data-start-ref=\"60003004\" data-end-ref=\"60003004\">I Pe 3:4</data>.†</div> <div class=\"as-re\"><i class=\"as-emph\">SYN.</i>: <span class=\"greek\" lang=\"grc\" data-strongs=\"G2263\">ἤρεμος</span>, of tranquillity arising from <i class=\"as-emph\">without</i>; <span class=\"greek\" lang=\"grc\">ἡ.</span>, from <i class=\"as-emph\">within</i> (v. Ellic. on <data class=\"bible-ref\" data-start-ref=\"54002002\" data-end-ref=\"54002002\">I Ti 2:2</data>; but also v. <i class=\"as-emph\">CGT</i>, <data class=\"bible-ref\" data-start-ref=\"54002002\" data-end-ref=\"54002002\">I Ti 2:2</data>.).†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "60003004",
+"start_ref_usfm": "1PE 3:4",
+"end_ref": "60003004",
+"end_ref_usfm": "1PE 3:4"
+},
+{
+"start_ref": "54002002",
+"start_ref_usfm": "1TI 2:2",
+"end_ref": "54002002",
+"end_ref_usfm": "1TI 2:2"
+},
+{
+"start_ref": "23066002",
+"start_ref_usfm": "ISA 66:2",
+"end_ref": "23066002",
+"end_ref_usfm": "ISA 66:2"
+},
+{
+"start_ref": "72025020",
+"start_ref_usfm": "SIR 25:20",
+"end_ref": "72025020",
+"end_ref_usfm": "SIR 25:20"
+},
+{
+"start_ref": "71018014",
+"start_ref_usfm": "WIS 18:14",
+"end_ref": "71018014",
+"end_ref_usfm": "WIS 18:14"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02429",
+"reference_id": "ASL02429",
+"version": "1.0.4",
+"title": "ἤτοι",
+"media_type": "Text",
+"index_reference": "ἤτοι",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"201\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἤτοι </b><span class=\"as-gram\"><span class=\"as-pos\">disjunct. part.</span>,</span></span></p> <div class=\"as-sense\"><i class=\"as-gloss\">whether</i>: <data class=\"bible-ref\" data-start-ref=\"45006016\" data-end-ref=\"45006016\">Ro 6:16</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "45006016",
+"start_ref_usfm": "ROM 6:16",
+"end_ref": "45006016",
+"end_ref_usfm": "ROM 6:16"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02430",
+"reference_id": "ASL02430",
+"version": "1.0.4",
+"title": "ἡττάω",
+"media_type": "Text",
+"index_reference": "ἡττάω",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"201\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἡττάω</b>, <span class=\"greek\" lang=\"grc\">-ῶ</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(<span class=\"greek\" lang=\"grc\">ἡσσ-</span>, <data class=\"bible-ref\" data-start-ref=\"47012013\" data-end-ref=\"47012013\">II Co 12:13</data>, v.s. <span class=\"greek\" lang=\"grc\">ἥσσων</span>),</span> <span class=\"as-lxx\">[in LXX for <span class=\"hebrew\" lang=\"he\" data-strongs=\"H2865\">חתת</span>, etc.;] pass.,</span> </span></p> <div class=\"as-sense\" data-n=\"1.\"><span class=\"as-sense-n\">1.</span> <i class=\"as-gloss\">to be inferior</i>: seq. <span class=\"greek\" lang=\"grc\">ὑπέρ</span>, <data class=\"bible-ref\" data-start-ref=\"47012013\" data-end-ref=\"47012013\">II Co 12:13</data>.</div> <div class=\"as-sense\" data-n=\"2.\"><span class=\"as-sense-n\">2.</span> <i class=\"as-gloss\">to be overcome</i>: absol., <data class=\"bible-ref\" data-start-ref=\"61002020\" data-end-ref=\"61002020\">II Pe 2:20</data>; c. dat., <data class=\"bible-ref\" data-start-ref=\"61002019\" data-end-ref=\"61002019\">II Pe 2:19</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "47012013",
+"start_ref_usfm": "2CO 12:13",
+"end_ref": "47012013",
+"end_ref_usfm": "2CO 12:13"
+},
+{
+"start_ref": "61002019",
+"start_ref_usfm": "2PE 2:19",
+"end_ref": "61002019",
+"end_ref_usfm": "2PE 2:19"
+},
+{
+"start_ref": "61002020",
+"start_ref_usfm": "2PE 2:20",
+"end_ref": "61002020",
+"end_ref_usfm": "2PE 2:20"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02431",
+"reference_id": "ASL02431",
+"version": "1.0.4",
+"title": "ἥττημα",
+"media_type": "Text",
+"index_reference": "ἥττημα",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"201\"> <p class=\"as-head\"><span class=\"as-form\">† <b class=\"as-orth greek\" lang=\"grc\">ἥττημα</b>, <span class=\"greek\" lang=\"grc\">-τος, τό</span>,</span> <span class=\"as-etym\"> <span class=\"as-lxx\">[in LXX for <span class=\"hebrew\" lang=\"he\" data-strongs=\"H4522\">מַס</span>, <data class=\"bible-ref\" data-start-ref=\"23031009\" data-end-ref=\"23031009\">Is 31:9</data>(<data class=\"bible-ref\" data-start-ref=\"23031008\" data-end-ref=\"23031008\">8</data>)*;]</span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">defect</i>, <i class=\"as-gloss\">loss</i>, <i class=\"as-gloss\">defeat</i>: <data class=\"bible-ref\" data-start-ref=\"45011012\" data-end-ref=\"45011012\">Ro 11:12</data> (cf. <data class=\"bible-ref\" data-start-ref=\"23031009\" data-end-ref=\"23031009\">Is 31:9</data>(<data class=\"bible-ref\" data-start-ref=\"23031008\" data-end-ref=\"23031008\">8</data>), <data class=\"bible-ref\" data-start-ref=\"46006007\" data-end-ref=\"46006007\">I Co 6:7</data> (cf. Field, <i class=\"as-emph\">Notes</i>, 160 f., 171 f.; Lft., <i class=\"as-emph\">Notes</i>, 212).†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "46006007",
+"start_ref_usfm": "1CO 6:7",
+"end_ref": "46006007",
+"end_ref_usfm": "1CO 6:7"
+},
+{
+"start_ref": "23031008",
+"start_ref_usfm": "ISA 31:8",
+"end_ref": "23031008",
+"end_ref_usfm": "ISA 31:8"
+},
+{
+"start_ref": "23031009",
+"start_ref_usfm": "ISA 31:9",
+"end_ref": "23031009",
+"end_ref_usfm": "ISA 31:9"
+},
+{
+"start_ref": "45011012",
+"start_ref_usfm": "ROM 11:12",
+"end_ref": "45011012",
+"end_ref_usfm": "ROM 11:12"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02432",
+"reference_id": "ASL02432",
+"version": "1.0.4",
+"title": "ἥττων",
+"media_type": "Text",
+"index_reference": "ἥττων",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"201\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἥττων</b>, v.s. <span class=\"greek\" lang=\"grc\">ἥσσων</span>.</span></p> </div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02433",
+"reference_id": "ASL02433",
+"version": "1.0.4",
+"title": "ἠχέω",
+"media_type": "Text",
+"index_reference": "ἠχέω",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"201\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἠχέω</b>, <span class=\"greek\" lang=\"grc\">-ῶ</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(&lt; <span class=\"greek\" lang=\"grc\">ἦχος</span>),</span> <span class=\"as-lxx\">[in LXX for <span class=\"hebrew\" lang=\"he\" data-strongs=\"H1993\">המה</span>, etc.;]</span> </span></p> <div class=\"as-sense\"><i class=\"as-gloss\">to sound</i>: <data class=\"bible-ref\" data-start-ref=\"46013001\" data-end-ref=\"46013001\">I Co 13:1</data> (cf. <span class=\"greek\" lang=\"grc\">ἐξ-</span>, <span class=\"greek\" lang=\"grc\">κατ-ηχέω</span>).†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "46013001",
+"start_ref_usfm": "1CO 13:1",
+"end_ref": "46013001",
+"end_ref_usfm": "1CO 13:1"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "ASL02434",
+"reference_id": "ASL02434",
+"version": "1.0.4",
+"title": "ἦχος",
+"media_type": "Text",
+"index_reference": "ἦχος",
+"language": "eng",
+"review_level": "None",
+"content": "<style> .as-entry { font-family: Georgia, \"Times New Roman\", serif; line-height: 1.55; } .as-entry .greek { font-family: \"SBL Greek\", \"Gentium Plus\", \"Times New Roman\", serif; } .as-entry .hebrew, .as-entry .aramaic { font-family: \"SBL Hebrew\", \"Ezra SIL\", \"Times New Roman\", serif; direction: rtl; unicode-bidi: isolate; } .as-entry .latin { font-style: italic; } .as-entry .as-head { margin: 0 0 0.6em; } .as-entry .as-shared { color: #333; } .as-entry .as-orth { font-size: 1.1em; } .as-entry .as-gloss, .as-entry .as-emph { font-style: italic; } .as-entry .as-pos, .as-entry .as-subc, .as-entry .as-usg { font-style: italic; } .as-entry .as-sense { margin: 0.45em 0 0.45em 1.1em; } .as-entry .as-sense .as-sense { padding-left: 0.6em; border-left: 2px solid #d8d4c8; } .as-entry .as-sense-n { font-weight: bold; margin-right: 0.25em; } .as-entry .as-re { margin: 0.6em 0 0; } .as-entry .ref, .as-entry .xref { white-space: nowrap; } </style> <div class=\"as-entry\" data-page=\"201\"> <p class=\"as-head\"><span class=\"as-form\"><b class=\"as-orth greek\" lang=\"grc\">ἦχος</b>, <span class=\"greek\" lang=\"grc\">-ου, ὁ</span></span> <span class=\"as-etym\"> <span class=\"as-derivation\">(also in late and MGr., <span class=\"greek\" lang=\"grc\">-εος, τό</span>, <data class=\"bible-ref\" data-start-ref=\"42021025\" data-end-ref=\"42021025\">Lk 21:25</data>),</span> <span class=\"as-lxx\">[in LXX for <span class=\"hebrew\" lang=\"he\" data-strongs=\"H1995\">חָמוֹן</span>, etc.;] </span> </span></p> <div class=\"as-sense\" data-n=\"1.\"><span class=\"as-sense-n\">1.</span> <i class=\"as-gloss\">a noise</i>, <i class=\"as-gloss\">sound</i>: <data class=\"bible-ref\" data-start-ref=\"44002002\" data-end-ref=\"44002002\">Ac 2:2</data>; <span class=\"greek\" lang=\"grc\">ἦ. θαλάσσης</span>, <data class=\"bible-ref\" data-start-ref=\"42021025\" data-end-ref=\"42021025\">Lk 21:25</data>; <span class=\"greek\" lang=\"grc\">σάλπιγγος</span>, <data class=\"bible-ref\" data-start-ref=\"58012019\" data-end-ref=\"58012019\">He 12:19</data>.</div> <div class=\"as-sense\" data-n=\"2.\"><span class=\"as-sense-n\">2.</span> <i class=\"as-gloss\">a report</i>: seq. <span class=\"greek\" lang=\"grc\">περί</span>, <data class=\"bible-ref\" data-start-ref=\"42004037\" data-end-ref=\"42004037\">Lk 4:37</data>.†</div> </div>",
+"associations": {
+"passage": [
+{
+"start_ref": "44002002",
+"start_ref_usfm": "ACT 2:2",
+"end_ref": "44002002",
+"end_ref_usfm": "ACT 2:2"
+},
+{
+"start_ref": "58012019",
+"start_ref_usfm": "HEB 12:19",
+"end_ref": "58012019",
+"end_ref_usfm": "HEB 12:19"
+},
+{
+"start_ref": "42004037",
+"start_ref_usfm": "LUK 4:37",
+"end_ref": "42004037",
+"end_ref_usfm": "LUK 4:37"
+},
+{
+"start_ref": "42021025",
+"start_ref_usfm": "LUK 21:25",
+"end_ref": "42021025",
+"end_ref_usfm": "LUK 21:25"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]
