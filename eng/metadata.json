@@ -42,7 +42,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-11-20T17:18:20.697054"
+"dateCreated": "2026-11-20T19:26:45.846207"
 },
 "idAuthorities": {
 "aquifer": {
@@ -56,7 +56,7 @@
 "primary": {
 "aquifer": {
 "AbbottSmithGreekLexicon": {
-"timestamp": "2026-11-20T17:18:20.697054"
+"timestamp": "2026-11-20T19:26:45.846207"
 }
 }
 },
